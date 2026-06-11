@@ -1,0 +1,501 @@
+﻿Case ID,Alert Date,Account Number,Customer Name,Transaction Details,Alert Trigger,Case Status,Analyst Assigned,Investigation Start Date,Investigation End Date,Case Outcome,Notes
+AML0001,21-01-2025,8078673,Rohan Reddy,"Unusual cryptocurrency-linked transfers totaling $50,580",High transfer value,Closed,Jane Smith,21-01-2025,01-02-2025,Unfounded,Customer explanation insufficient
+AML0002,03-01-2025,8536477,Neha Reddy,"Rapid movement of funds across multiple accounts totaling $224,949",Adverse media alert,Closed,Sarah Connor,04-01-2025,23-01-2025,Customer Offboarded,Transaction activity aligned with known typologies
+AML0003,26-01-2025,7374122,Vertex Solutions,"Multiple cash deposits totaling $58,587",Structuring,Escalated,Priya Nair,26-01-2025,20-02-2025,SAR Filed,Additional monitoring recommended
+AML0004,28-01-2025,5918715,Nova Industries,"Structuring activity involving $46,313",Adverse media alert,Closed,Priya Nair,30-01-2025,10-02-2025,Escalated to Compliance,Linked accounts under review
+AML0005,19-01-2025,8606962,Olivia Williams,"Purchase of high-value assets worth $204,295",PEP involvement,Closed,Alice Murphy,20-01-2025,25-01-2025,Unfounded,Additional monitoring recommended
+AML0006,12-01-2025,7366205,Amit Wilson,"International business payments worth $90,669",Rapid movement of funds,Escalated,Kevin Brooks,14-01-2025,07-02-2025,Substantiated,Case escalated to senior compliance team
+AML0007,08-01-2025,4567281,Chris Gupta,"Frequent ATM cash withdrawals totaling $464,469",Frequent cash activity,Closed,Rahul Mehta,10-01-2025,20-01-2025,SAR Filed,Enhanced due diligence initiated
+AML0008,21-01-2025,7700828,Karan Gupta,"Unusual cryptocurrency-linked transfers totaling $229,622",PEP involvement,Closed,Harvey Dent,24-01-2025,04-02-2025,Unfounded,Linked accounts under review
+AML0009,05-01-2025,7402509,Mia Verma,"Round-dollar transactions totaling $38,306",Adverse media alert,Closed,Emily Carter,08-01-2025,12-01-2025,Unfounded,Customer explanation insufficient
+AML0010,17-01-2025,3653446,James Williams,"Round-dollar transactions totaling $158,878",Frequent cash activity,Closed,Jane Smith,19-01-2025,22-01-2025,Customer Offboarded,Additional monitoring recommended
+AML0011,24-01-2025,9897858,David Thomas,"Cross-border remittance activity amounting to $404,775",High transfer value,Closed,Nina Patel,26-01-2025,03-02-2025,SAR Filed,Linked accounts under review
+AML0012,11-01-2025,9153566,Omega Financials,"Multiple cash deposits totaling $46,291",Structuring,Escalated,Kevin Brooks,14-01-2025,20-01-2025,SAR Filed,Transaction activity aligned with known typologies
+AML0013,25-01-2025,4374754,Ananya Clark,"Structuring activity involving $116,043",Rapid movement of funds,Escalated,Rahul Mehta,26-01-2025,19-02-2025,Customer Offboarded,Customer explanation insufficient
+AML0014,22-01-2025,1352896,Acme Corporation,"Frequent ATM cash withdrawals totaling $38,568",Adverse media alert,Pending Review,Kevin Brooks,24-01-2025,,Under investigation,
+AML0015,08-01-2025,5672073,James Brown,"Rapid movement of funds across multiple accounts totaling $274,565",Frequent cash activity,Closed,Harvey Dent,09-01-2025,14-01-2025,Unfounded,SAR filed with regulator
+AML0016,18-01-2025,6944126,Chris Williams,"Round-dollar transactions totaling $55,819",Sanctions screening match,Escalated,Rahul Mehta,19-01-2025,09-02-2025,Unfounded,Potential mule account identified
+AML0017,15-01-2025,9997381,Sarah Wilson,"Rapid movement of funds across multiple accounts totaling $105,448",Frequent cash activity,Closed,Alice Murphy,15-01-2025,07-02-2025,Substantiated,Enhanced due diligence initiated
+AML0018,14-01-2025,2642635,Global Trade Inc.,"Structuring activity involving $237,328",High transfer value,Pending Review,Kevin Brooks,15-01-2025,,Under investigation,
+AML0019,27-01-2025,1036161,Robert Johnson,"Round-dollar transactions totaling $91,317",Sanctions screening match,Closed,Sarah Connor,27-01-2025,06-02-2025,Escalated to Compliance,Potential mule account identified
+AML0020,26-01-2025,3597059,Karan Reddy,"International business payments worth $352,011",Layering activity,Pending Review,Sarah Connor,29-01-2025,,Under investigation,
+AML0021,07-01-2025,3641282,Skyline Ventures,"Structuring activity involving $268,638",High transfer value,Closed,Kevin Brooks,07-01-2025,27-01-2025,SAR Filed,Referred to law enforcement
+AML0022,03-01-2025,1666754,Omega Financials,"Unusual cryptocurrency-linked transfers totaling $134,087",Adverse media alert,Closed,Derek Watts,04-01-2025,26-01-2025,Unfounded,Enhanced due diligence initiated
+AML0023,14-01-2025,3195773,James Wilson,"Round-dollar transactions totaling $144,258",Rapid movement of funds,Open,Emily Carter,16-01-2025,,Under investigation,
+AML0024,11-01-2025,2154126,BlueWave Enterprises,"Frequent ATM cash withdrawals totaling $74,445",Layering activity,Closed,Priya Nair,11-01-2025,28-01-2025,Substantiated,Linked accounts under review
+AML0025,10-01-2025,6022741,Arjun Sharma,"Structuring activity involving $9,101",Structuring,Pending Review,Alice Murphy,11-01-2025,,Under investigation,
+AML0026,09-01-2025,9479356,Neha Lee,"Purchase of high-value assets worth $111,743",Frequent cash activity,Closed,Sarah Connor,09-01-2025,29-01-2025,SAR Filed,Additional monitoring recommended
+AML0027,28-01-2025,3710895,Zenith Holdings,"Purchase of high-value assets worth $339,030",Frequent cash activity,Escalated,Kevin Brooks,28-01-2025,20-02-2025,SAR Filed,Referred to law enforcement
+AML0028,23-01-2025,8210624,Emma Gupta,"Cross-border remittance activity amounting to $294,682",Unusual transaction pattern,Closed,Jane Smith,26-01-2025,29-01-2025,Substantiated,Customer explanation insufficient
+AML0029,10-01-2025,4971793,Amit Clark,"Cross-border remittance activity amounting to $330,405",Unusual transaction pattern,Closed,Alice Murphy,12-01-2025,26-01-2025,Unfounded,SAR filed with regulator
+AML0030,14-01-2025,8896868,Global Trade Inc.,"Wire transfer of $205,562 to high-risk jurisdiction",Layering activity,Escalated,Harvey Dent,14-01-2025,27-01-2025,Unfounded,Additional monitoring recommended
+AML0031,27-01-2025,7685149,Olivia Wilson,"Rapid movement of funds across multiple accounts totaling $17,406",PEP involvement,Pending Review,Sarah Connor,30-01-2025,,Under investigation,
+AML0032,28-01-2025,2935113,Robert Reddy,"Wire transfer of $178,617 to high-risk jurisdiction",Rapid movement of funds,Pending Review,Alice Murphy,28-01-2025,,Under investigation,
+AML0033,19-01-2025,4188992,Raj Williams,"Unusual cryptocurrency-linked transfers totaling $206,953",Rapid movement of funds,Escalated,Jane Smith,21-01-2025,27-01-2025,SAR Filed,No suspicious activity confirmed
+AML0034,23-01-2025,3090865,Vertex Solutions,"Frequent ATM cash withdrawals totaling $331,712",Rapid movement of funds,Closed,Kevin Brooks,26-01-2025,14-02-2025,SAR Filed,Enhanced due diligence initiated
+AML0035,10-01-2025,7361002,Amit Jones,"Round-dollar transactions totaling $105,579",Unusual transaction pattern,Pending Review,Nina Patel,13-01-2025,,Under investigation,
+AML0036,19-01-2025,6406444,Chris Clark,"Unusual cryptocurrency-linked transfers totaling $416,963",Frequent cash activity,Open,Emily Carter,21-01-2025,,Under investigation,
+AML0037,15-01-2025,4940441,Arjun Verma,"Multiple cash deposits totaling $180,735",Rapid movement of funds,Closed,Harvey Dent,16-01-2025,03-02-2025,Substantiated,Additional monitoring recommended
+AML0038,26-01-2025,4262081,Michael White,"Unusual cryptocurrency-linked transfers totaling $222,286",Sanctions screening match,Closed,Emily Carter,27-01-2025,30-01-2025,Unfounded,Potential mule account identified
+AML0039,13-01-2025,5180853,Pioneer Logistics,"Wire transfer of $248,557 to high-risk jurisdiction",Structuring,Closed,Emily Carter,14-01-2025,06-02-2025,Substantiated,Enhanced due diligence initiated
+AML0040,05-01-2025,8481188,Raj Clark,"Structuring activity involving $440,457",Unusual transaction pattern,Escalated,Emily Carter,08-01-2025,27-01-2025,Escalated to Compliance,Case escalated to senior compliance team
+AML0041,15-01-2025,4934149,Daniel White,"Purchase of high-value assets worth $45,623",Rapid movement of funds,Escalated,Priya Nair,17-01-2025,09-02-2025,Customer Offboarded,Potential mule account identified
+AML0042,11-01-2025,8816912,Michael Clark,"Frequent ATM cash withdrawals totaling $218,699",Sanctions screening match,Closed,Jane Smith,11-01-2025,18-01-2025,Escalated to Compliance,Customer explanation insufficient
+AML0043,07-02-2025,6901533,Priya Moore,"Wire transfer of $255,074 to high-risk jurisdiction",Rapid movement of funds,Open,Rahul Mehta,10-02-2025,,Under investigation,
+AML0044,28-02-2025,7783308,Ava Smith,"Frequent ATM cash withdrawals totaling $208,873",Unusual transaction pattern,Closed,Emily Carter,03-03-2025,23-03-2025,Escalated to Compliance,Transaction activity aligned with known typologies
+AML0045,05-02-2025,4048907,Nova Industries,"International business payments worth $76,145",High transfer value,Open,Sarah Connor,05-02-2025,,Under investigation,
+AML0046,13-02-2025,8890439,Mia Taylor,"Multiple cash deposits totaling $442,733",High transfer value,Escalated,Kevin Brooks,15-02-2025,04-03-2025,SAR Filed,Enhanced due diligence initiated
+AML0047,02-02-2025,5002120,Chris Smith,"Cross-border remittance activity amounting to $330,758",Unusual transaction pattern,Closed,Emily Carter,04-02-2025,27-02-2025,Substantiated,Referred to law enforcement
+AML0048,22-02-2025,3747534,Omega Financials,"Multiple cash deposits totaling $397,128",Rapid movement of funds,Escalated,Derek Watts,22-02-2025,03-03-2025,SAR Filed,No suspicious activity confirmed
+AML0049,19-02-2025,5074336,Neha Davis,"Unusual cryptocurrency-linked transfers totaling $44,844",Structuring,Pending Review,Sarah Connor,19-02-2025,,Under investigation,
+AML0050,28-02-2025,1212267,Michael Sharma,"Frequent ATM cash withdrawals totaling $344,499",Sanctions screening match,Escalated,Emily Carter,28-02-2025,04-03-2025,Customer Offboarded,Enhanced due diligence initiated
+AML0051,04-02-2025,5531230,Mia Miller,"Structuring activity involving $389,720",Adverse media alert,Pending Review,Kevin Brooks,07-02-2025,,Under investigation,
+AML0052,25-02-2025,2453962,Priya Taylor,"Rapid movement of funds across multiple accounts totaling $173,980",Rapid movement of funds,Pending Review,Emily Carter,28-02-2025,,Under investigation,
+AML0053,08-02-2025,6952975,James Miller,"Rapid movement of funds across multiple accounts totaling $260,616",Rapid movement of funds,Escalated,Priya Nair,11-02-2025,05-03-2025,SAR Filed,Referred to law enforcement
+AML0054,09-02-2025,8987516,Ava Reddy,"Rapid movement of funds across multiple accounts totaling $402,496",Frequent cash activity,Closed,Emily Carter,11-02-2025,14-02-2025,Substantiated,Transaction activity aligned with known typologies
+AML0055,26-02-2025,9907391,Priya Thomas,"Structuring activity involving $253,124",PEP involvement,Closed,Rahul Mehta,26-02-2025,10-03-2025,Escalated to Compliance,Transaction activity aligned with known typologies
+AML0056,24-02-2025,6294016,Daniel Wilson,"Rapid movement of funds across multiple accounts totaling $68,258",Structuring,Pending Review,Kevin Brooks,26-02-2025,,Under investigation,
+AML0057,25-02-2025,4256752,Raj Verma,"Multiple cash deposits totaling $153,372",Rapid movement of funds,Escalated,Harvey Dent,26-02-2025,07-03-2025,SAR Filed,Case escalated to senior compliance team
+AML0058,12-02-2025,5901239,David Taylor,"Wire transfer of $28,863 to high-risk jurisdiction",Unusual transaction pattern,Open,Emily Carter,13-02-2025,,Under investigation,
+AML0059,04-02-2025,2914064,Jane Taylor,"International business payments worth $498,388",Structuring,Escalated,Rahul Mehta,04-02-2025,16-02-2025,Escalated to Compliance,Potential mule account identified
+AML0060,16-02-2025,7982241,Sophia Brown,"Multiple cash deposits totaling $135,123",Adverse media alert,Closed,Nina Patel,16-02-2025,11-03-2025,Unfounded,Customer explanation insufficient
+AML0061,26-02-2025,2010496,Mia Anderson,"Unusual cryptocurrency-linked transfers totaling $303,125",Adverse media alert,Escalated,Derek Watts,27-02-2025,14-03-2025,Escalated to Compliance,Additional monitoring recommended
+AML0062,25-02-2025,1044891,Pioneer Logistics,"Cross-border remittance activity amounting to $44,355",Sanctions screening match,Escalated,Emily Carter,26-02-2025,07-03-2025,Substantiated,Customer explanation insufficient
+AML0063,23-02-2025,2194198,BlueWave Enterprises,"International business payments worth $373,567",Layering activity,Open,Sarah Connor,26-02-2025,,Under investigation,
+AML0064,26-02-2025,3386328,Arjun Jones,"Purchase of high-value assets worth $481,269",Structuring,Open,Jane Smith,27-02-2025,,Under investigation,
+AML0065,06-02-2025,9396529,Sophia Moore,"Purchase of high-value assets worth $499,233",High-risk geography,Escalated,Emily Carter,08-02-2025,01-03-2025,Escalated to Compliance,SAR filed with regulator
+AML0066,15-02-2025,1348050,Michael Wilson,"Unusual cryptocurrency-linked transfers totaling $358,526",Rapid movement of funds,Escalated,Nina Patel,15-02-2025,19-02-2025,SAR Filed,Case escalated to senior compliance team
+AML0067,02-02-2025,2530793,Emily Gupta,"International business payments worth $233,529",Frequent cash activity,Pending Review,Priya Nair,03-02-2025,,Under investigation,
+AML0068,14-02-2025,5835492,James Clark,"International business payments worth $368,684",Sanctions screening match,Open,Kevin Brooks,16-02-2025,,Under investigation,
+AML0069,02-02-2025,8750676,Robert Sharma,"Wire transfer of $437,499 to high-risk jurisdiction",Sanctions screening match,Escalated,Jane Smith,05-02-2025,18-02-2025,SAR Filed,SAR filed with regulator
+AML0070,07-02-2025,3037191,David Anderson,"International business payments worth $234,699",High transfer value,Escalated,Nina Patel,09-02-2025,27-02-2025,Substantiated,Transaction activity aligned with known typologies
+AML0071,26-02-2025,8741810,Michael Wilson,"Multiple cash deposits totaling $446,138",Structuring,Escalated,Alice Murphy,27-02-2025,07-03-2025,Customer Offboarded,Referred to law enforcement
+AML0072,16-02-2025,7435505,Olivia White,"Cross-border remittance activity amounting to $294,021",Layering activity,Escalated,Nina Patel,18-02-2025,15-03-2025,Escalated to Compliance,Potential mule account identified
+AML0073,17-02-2025,9214801,John Anderson,"Purchase of high-value assets worth $385,659",Unusual transaction pattern,Escalated,Emily Carter,18-02-2025,01-03-2025,SAR Filed,Linked accounts under review
+AML0074,18-02-2025,4165061,Amit Moore,"Frequent ATM cash withdrawals totaling $243,731",Layering activity,Pending Review,Nina Patel,21-02-2025,,Under investigation,
+AML0075,13-02-2025,9310235,Ava Moore,"Cross-border remittance activity amounting to $207,416",High transfer value,Open,Alice Murphy,14-02-2025,,Under investigation,
+AML0076,17-02-2025,2255409,Zenith Holdings,"Cross-border remittance activity amounting to $219,946",Frequent cash activity,Closed,Sarah Connor,19-02-2025,08-03-2025,Customer Offboarded,Potential mule account identified
+AML0077,11-02-2025,1602286,Arjun Patel,"Structuring activity involving $462,379",Adverse media alert,Escalated,Derek Watts,14-02-2025,19-02-2025,Customer Offboarded,Enhanced due diligence initiated
+AML0078,08-02-2025,1771600,Neha Anderson,"Wire transfer of $478,654 to high-risk jurisdiction",PEP involvement,Escalated,Jane Smith,10-02-2025,15-02-2025,Substantiated,SAR filed with regulator
+AML0079,10-02-2025,4020853,Pioneer Logistics,"Unusual cryptocurrency-linked transfers totaling $221,033",Unusual transaction pattern,Pending Review,Alice Murphy,12-02-2025,,Under investigation,
+AML0080,03-02-2025,8710313,Skyline Ventures,"Purchase of high-value assets worth $339,445",Rapid movement of funds,Closed,Jane Smith,06-02-2025,02-03-2025,Escalated to Compliance,Case escalated to senior compliance team
+AML0081,26-02-2025,8118722,Vertex Solutions,"Purchase of high-value assets worth $313,056",Rapid movement of funds,Open,Emily Carter,01-03-2025,,Under investigation,
+AML0082,28-02-2025,1368085,Emma Gupta,"Purchase of high-value assets worth $160,122",Sanctions screening match,Escalated,Sarah Connor,02-03-2025,17-03-2025,Substantiated,Transaction activity aligned with known typologies
+AML0083,01-02-2025,5204819,Olivia Singh,"Unusual cryptocurrency-linked transfers totaling $104,683",Unusual transaction pattern,Escalated,Derek Watts,01-02-2025,19-02-2025,Unfounded,Case escalated to senior compliance team
+AML0084,21-02-2025,2512187,Vertex Solutions,"Cross-border remittance activity amounting to $388,967",Rapid movement of funds,Pending Review,Priya Nair,21-02-2025,,Under investigation,
+AML0085,24-03-2025,5951651,Daniel Miller,"International business payments worth $139,726",PEP involvement,Closed,Derek Watts,27-03-2025,05-04-2025,Customer Offboarded,No suspicious activity confirmed
+AML0086,15-03-2025,3073474,Nova Industries,"Purchase of high-value assets worth $12,297",Frequent cash activity,Escalated,Priya Nair,15-03-2025,25-03-2025,Customer Offboarded,No suspicious activity confirmed
+AML0087,22-03-2025,4713925,Ananya Reddy,"Unusual cryptocurrency-linked transfers totaling $176,969",Structuring,Escalated,Emily Carter,24-03-2025,08-04-2025,Substantiated,Transaction activity aligned with known typologies
+AML0088,23-03-2025,4939290,Sophia Patel,"Multiple cash deposits totaling $65,880",High-risk geography,Closed,Alice Murphy,25-03-2025,10-04-2025,Unfounded,Referred to law enforcement
+AML0089,13-03-2025,2661307,Karan Jones,"Round-dollar transactions totaling $469,211",Frequent cash activity,Pending Review,Nina Patel,16-03-2025,,Under investigation,
+AML0090,14-03-2025,7017548,Olivia Thomas,"Frequent ATM cash withdrawals totaling $57,090",High transfer value,Escalated,Rahul Mehta,16-03-2025,10-04-2025,Unfounded,Potential mule account identified
+AML0091,09-03-2025,4442778,Jane Lee,"Cross-border remittance activity amounting to $132,700",Structuring,Closed,Kevin Brooks,10-03-2025,27-03-2025,Unfounded,Case escalated to senior compliance team
+AML0092,07-03-2025,3927575,David Jones,"Purchase of high-value assets worth $288,228",Structuring,Closed,Jane Smith,08-03-2025,21-03-2025,Customer Offboarded,Referred to law enforcement
+AML0093,05-03-2025,3126655,John Miller,"Wire transfer of $144,129 to high-risk jurisdiction",Sanctions screening match,Open,Kevin Brooks,05-03-2025,,Under investigation,
+AML0094,04-03-2025,9453010,Raj Gupta,"International business payments worth $62,175",Layering activity,Pending Review,Nina Patel,04-03-2025,,Under investigation,
+AML0095,02-03-2025,8151684,Skyline Ventures,"Round-dollar transactions totaling $449,228",Structuring,Open,Emily Carter,04-03-2025,,Under investigation,
+AML0096,23-03-2025,6455706,BlueWave Enterprises,"Unusual cryptocurrency-linked transfers totaling $332,322",Sanctions screening match,Escalated,Nina Patel,26-03-2025,31-03-2025,Customer Offboarded,Customer explanation insufficient
+AML0097,17-03-2025,4607488,Global Trade Inc.,"Structuring activity involving $452,108",Sanctions screening match,Pending Review,Emily Carter,19-03-2025,,Under investigation,
+AML0098,08-03-2025,6243275,Karan Williams,"Round-dollar transactions totaling $168,865",Rapid movement of funds,Pending Review,Priya Nair,11-03-2025,,Under investigation,
+AML0099,05-03-2025,2006313,Vertex Solutions,"Cross-border remittance activity amounting to $430,600",Adverse media alert,Closed,Kevin Brooks,08-03-2025,13-03-2025,Substantiated,Enhanced due diligence initiated
+AML0100,18-03-2025,6242022,Karan Johnson,"Unusual cryptocurrency-linked transfers totaling $155,800",PEP involvement,Escalated,Derek Watts,20-03-2025,26-03-2025,SAR Filed,Enhanced due diligence initiated
+AML0101,19-03-2025,4794319,Amit Thomas,"Purchase of high-value assets worth $65,232",Sanctions screening match,Escalated,Kevin Brooks,20-03-2025,13-04-2025,Unfounded,SAR filed with regulator
+AML0102,25-03-2025,4043480,Sophia Lee,"Wire transfer of $189,037 to high-risk jurisdiction",Unusual transaction pattern,Escalated,Nina Patel,25-03-2025,18-04-2025,Substantiated,Customer explanation insufficient
+AML0103,22-03-2025,3640889,Nova Industries,"Frequent ATM cash withdrawals totaling $242,841",PEP involvement,Closed,Sarah Connor,25-03-2025,01-04-2025,Substantiated,Linked accounts under review
+AML0104,24-03-2025,5565128,Omega Financials,"Multiple cash deposits totaling $31,089",Frequent cash activity,Closed,Rahul Mehta,26-03-2025,17-04-2025,Substantiated,Customer explanation insufficient
+AML0105,16-03-2025,8212753,Pioneer Logistics,"Frequent ATM cash withdrawals totaling $64,673",Structuring,Pending Review,Sarah Connor,19-03-2025,,Under investigation,
+AML0106,22-03-2025,6056977,Ananya Johnson,"Rapid movement of funds across multiple accounts totaling $9,030",Layering activity,Escalated,Alice Murphy,25-03-2025,18-04-2025,Substantiated,Transaction activity aligned with known typologies
+AML0107,25-03-2025,3947669,Skyline Ventures,"Round-dollar transactions totaling $396,650",Unusual transaction pattern,Pending Review,Rahul Mehta,27-03-2025,,Under investigation,
+AML0108,18-03-2025,2306317,Jane Clark,"International business payments worth $14,825",PEP involvement,Escalated,Nina Patel,19-03-2025,08-04-2025,Substantiated,Enhanced due diligence initiated
+AML0109,14-03-2025,8719145,James Miller,"Unusual cryptocurrency-linked transfers totaling $425,123",PEP involvement,Escalated,Derek Watts,17-03-2025,09-04-2025,SAR Filed,SAR filed with regulator
+AML0110,14-03-2025,3820798,Sophia Lee,"Frequent ATM cash withdrawals totaling $121,167",Structuring,Escalated,Kevin Brooks,14-03-2025,30-03-2025,Customer Offboarded,SAR filed with regulator
+AML0111,21-03-2025,3456926,Arjun Jones,"Multiple cash deposits totaling $128,872",Rapid movement of funds,Closed,Harvey Dent,21-03-2025,09-04-2025,SAR Filed,No suspicious activity confirmed
+AML0112,06-03-2025,6422534,Priya White,"Unusual cryptocurrency-linked transfers totaling $362,110",PEP involvement,Closed,Alice Murphy,07-03-2025,12-03-2025,Escalated to Compliance,Potential mule account identified
+AML0113,15-03-2025,9511700,Daniel Gupta,"Frequent ATM cash withdrawals totaling $34,450",Structuring,Pending Review,Sarah Connor,15-03-2025,,Under investigation,
+AML0114,15-03-2025,7450545,Michael Verma,"Structuring activity involving $316,468",Frequent cash activity,Escalated,Nina Patel,18-03-2025,22-03-2025,SAR Filed,SAR filed with regulator
+AML0115,18-03-2025,8558523,Ava Sharma,"Wire transfer of $84,094 to high-risk jurisdiction",Structuring,Open,Priya Nair,18-03-2025,,Under investigation,
+AML0116,23-03-2025,3663319,William Sharma,"Unusual cryptocurrency-linked transfers totaling $279,070",PEP involvement,Closed,Priya Nair,23-03-2025,15-04-2025,Substantiated,Transaction activity aligned with known typologies
+AML0117,10-03-2025,2105817,Jane Singh,"Frequent ATM cash withdrawals totaling $344,374",PEP involvement,Pending Review,Derek Watts,13-03-2025,,Under investigation,
+AML0118,18-03-2025,6592886,Rohan Verma,"Cross-border remittance activity amounting to $462,850",Structuring,Pending Review,Nina Patel,21-03-2025,,Under investigation,
+AML0119,22-03-2025,2421349,Neha Moore,"Unusual cryptocurrency-linked transfers totaling $72,607",Rapid movement of funds,Pending Review,Kevin Brooks,23-03-2025,,Under investigation,
+AML0120,13-03-2025,6733317,Emma Anderson,"Rapid movement of funds across multiple accounts totaling $99,509",Frequent cash activity,Closed,Harvey Dent,15-03-2025,08-04-2025,Escalated to Compliance,Linked accounts under review
+AML0121,08-03-2025,3198638,Karan Sharma,"Frequent ATM cash withdrawals totaling $24,790",Adverse media alert,Escalated,Rahul Mehta,09-03-2025,14-03-2025,Substantiated,Linked accounts under review
+AML0122,05-03-2025,5780297,Rohan Wilson,"Unusual cryptocurrency-linked transfers totaling $237,888",Frequent cash activity,Closed,Harvey Dent,06-03-2025,31-03-2025,Escalated to Compliance,Referred to law enforcement
+AML0123,18-03-2025,8391997,Chris Thomas,"Unusual cryptocurrency-linked transfers totaling $360,628",Frequent cash activity,Pending Review,Sarah Connor,19-03-2025,,Under investigation,
+AML0124,25-03-2025,7227905,David Taylor,"International business payments worth $32,357",High-risk geography,Escalated,Derek Watts,28-03-2025,16-04-2025,Unfounded,Transaction activity aligned with known typologies
+AML0125,23-03-2025,3472100,Daniel White,"Structuring activity involving $479,641",Sanctions screening match,Open,Derek Watts,23-03-2025,,Under investigation,
+AML0126,08-03-2025,7478792,Robert Sharma,"Rapid movement of funds across multiple accounts totaling $201,063",Structuring,Open,Priya Nair,11-03-2025,,Under investigation,
+AML0127,08-04-2025,3308538,Arjun Lee,"Cross-border remittance activity amounting to $419,911",High transfer value,Open,Sarah Connor,08-04-2025,,Under investigation,
+AML0128,27-04-2025,4618086,Global Trade Inc.,"Purchase of high-value assets worth $14,963",Unusual transaction pattern,Escalated,Kevin Brooks,30-04-2025,07-05-2025,Escalated to Compliance,Case escalated to senior compliance team
+AML0129,24-04-2025,8669093,Nova Industries,"Unusual cryptocurrency-linked transfers totaling $339,994",Structuring,Closed,Derek Watts,27-04-2025,09-05-2025,SAR Filed,SAR filed with regulator
+AML0130,27-04-2025,1026245,Zenith Holdings,"Round-dollar transactions totaling $157,710",Adverse media alert,Closed,Priya Nair,30-04-2025,20-05-2025,Customer Offboarded,Case escalated to senior compliance team
+AML0131,08-04-2025,9516493,Pioneer Logistics,"Structuring activity involving $290,255",High-risk geography,Closed,Jane Smith,11-04-2025,05-05-2025,Customer Offboarded,No suspicious activity confirmed
+AML0132,13-04-2025,2739191,Emma Brown,"Rapid movement of funds across multiple accounts totaling $185,775",Adverse media alert,Escalated,Priya Nair,16-04-2025,09-05-2025,SAR Filed,Additional monitoring recommended
+AML0133,05-04-2025,4058117,Emily White,"International business payments worth $369,584",Unusual transaction pattern,Pending Review,Derek Watts,05-04-2025,,Under investigation,
+AML0134,23-04-2025,8942330,James Anderson,"Round-dollar transactions totaling $275,209",Rapid movement of funds,Closed,Jane Smith,26-04-2025,08-05-2025,Substantiated,Transaction activity aligned with known typologies
+AML0135,25-04-2025,3088344,Jane Singh,"Purchase of high-value assets worth $179,024",PEP involvement,Pending Review,Rahul Mehta,26-04-2025,,Under investigation,
+AML0136,13-04-2025,5474830,Ava Patel,"Structuring activity involving $197,595",Structuring,Pending Review,Rahul Mehta,16-04-2025,,Under investigation,
+AML0137,03-04-2025,8149041,BlueWave Enterprises,"International business payments worth $165,692",Unusual transaction pattern,Escalated,Emily Carter,06-04-2025,14-04-2025,SAR Filed,SAR filed with regulator
+AML0138,12-04-2025,3684131,Nova Industries,"Structuring activity involving $195,479",High transfer value,Escalated,Alice Murphy,15-04-2025,29-04-2025,SAR Filed,Referred to law enforcement
+AML0139,28-04-2025,8548448,Priya Johnson,"Cross-border remittance activity amounting to $322,243",PEP involvement,Closed,Priya Nair,01-05-2025,08-05-2025,Unfounded,No suspicious activity confirmed
+AML0140,15-04-2025,9372568,Olivia Williams,"Cross-border remittance activity amounting to $18,586",High-risk geography,Escalated,Rahul Mehta,15-04-2025,22-04-2025,Escalated to Compliance,No suspicious activity confirmed
+AML0141,18-04-2025,4358435,Chris Verma,"International business payments worth $154,724",Structuring,Pending Review,Alice Murphy,18-04-2025,,Under investigation,
+AML0142,28-04-2025,6828829,William Brown,"Frequent ATM cash withdrawals totaling $429,942",Structuring,Open,Kevin Brooks,28-04-2025,,Under investigation,
+AML0143,18-04-2025,9535505,Neha Singh,"Frequent ATM cash withdrawals totaling $96,273",Layering activity,Open,Derek Watts,20-04-2025,,Under investigation,
+AML0144,07-04-2025,2446455,William Reddy,"Unusual cryptocurrency-linked transfers totaling $73,037",Structuring,Closed,Sarah Connor,08-04-2025,26-04-2025,SAR Filed,Linked accounts under review
+AML0145,13-04-2025,8549319,Vertex Solutions,"Multiple cash deposits totaling $341,770",Frequent cash activity,Escalated,Kevin Brooks,16-04-2025,02-05-2025,Customer Offboarded,SAR filed with regulator
+AML0146,12-04-2025,6102363,Jane Williams,"Cross-border remittance activity amounting to $276,634",Unusual transaction pattern,Closed,Alice Murphy,13-04-2025,06-05-2025,Unfounded,Enhanced due diligence initiated
+AML0147,11-04-2025,5604524,Daniel Davis,"Structuring activity involving $337,952",Unusual transaction pattern,Pending Review,Sarah Connor,12-04-2025,,Under investigation,
+AML0148,20-04-2025,6664316,Omega Financials,"Unusual cryptocurrency-linked transfers totaling $382,819",Adverse media alert,Closed,Jane Smith,20-04-2025,13-05-2025,Customer Offboarded,Case escalated to senior compliance team
+AML0149,27-04-2025,5859883,Arjun Smith,"Structuring activity involving $266,115",Rapid movement of funds,Escalated,Emily Carter,27-04-2025,01-05-2025,Unfounded,Case escalated to senior compliance team
+AML0150,08-04-2025,7972975,ABC Exports Pvt Ltd,"International business payments worth $87,879",Frequent cash activity,Pending Review,Emily Carter,11-04-2025,,Under investigation,
+AML0151,07-04-2025,2781470,David Thomas,"Structuring activity involving $274,997",PEP involvement,Escalated,Harvey Dent,09-04-2025,16-04-2025,SAR Filed,No suspicious activity confirmed
+AML0152,15-04-2025,7444964,Global Trade Inc.,"Purchase of high-value assets worth $31,531",Adverse media alert,Pending Review,Rahul Mehta,15-04-2025,,Under investigation,
+AML0153,08-04-2025,8831858,Zenith Holdings,"Structuring activity involving $266,234",Frequent cash activity,Pending Review,Sarah Connor,09-04-2025,,Under investigation,
+AML0154,16-04-2025,8895137,Jane Johnson,"International business payments worth $152,511",Rapid movement of funds,Escalated,Kevin Brooks,16-04-2025,01-05-2025,Unfounded,Transaction activity aligned with known typologies
+AML0155,01-04-2025,7139410,Karan Thomas,"Round-dollar transactions totaling $405,480",High transfer value,Open,Rahul Mehta,01-04-2025,,Under investigation,
+AML0156,02-04-2025,5692934,Pioneer Logistics,"Structuring activity involving $241,115",Adverse media alert,Pending Review,Nina Patel,03-04-2025,,Under investigation,
+AML0157,04-04-2025,7734157,David Davis,"Structuring activity involving $320,864",High-risk geography,Escalated,Jane Smith,05-04-2025,20-04-2025,SAR Filed,Linked accounts under review
+AML0158,02-04-2025,6344047,Ananya Sharma,"Frequent ATM cash withdrawals totaling $78,285",Unusual transaction pattern,Escalated,Rahul Mehta,02-04-2025,27-04-2025,Escalated to Compliance,Linked accounts under review
+AML0159,20-04-2025,7988386,John Thomas,"Multiple cash deposits totaling $178,664",Adverse media alert,Escalated,Sarah Connor,22-04-2025,05-05-2025,Customer Offboarded,Additional monitoring recommended
+AML0160,26-04-2025,3860717,ABC Exports Pvt Ltd,"International business payments worth $310,934",High-risk geography,Escalated,Nina Patel,26-04-2025,14-05-2025,Customer Offboarded,Case escalated to senior compliance team
+AML0161,25-04-2025,6262886,Sarah Davis,"International business payments worth $14,928",Sanctions screening match,Closed,Alice Murphy,28-04-2025,22-05-2025,Substantiated,Case escalated to senior compliance team
+AML0162,14-04-2025,9702060,Karan Johnson,"Cross-border remittance activity amounting to $375,029",Layering activity,Pending Review,Kevin Brooks,15-04-2025,,Under investigation,
+AML0163,11-04-2025,9123194,James Reddy,"Purchase of high-value assets worth $190,748",Layering activity,Escalated,Harvey Dent,14-04-2025,29-04-2025,Unfounded,Potential mule account identified
+AML0164,09-04-2025,5828304,Emma Reddy,"Purchase of high-value assets worth $494,527",Structuring,Escalated,Nina Patel,11-04-2025,23-04-2025,Unfounded,Potential mule account identified
+AML0165,22-04-2025,2325893,David Anderson,"Purchase of high-value assets worth $27,054",PEP involvement,Pending Review,Emily Carter,25-04-2025,,Under investigation,
+AML0166,21-04-2025,5014486,Amit Taylor,"Multiple cash deposits totaling $76,970",Layering activity,Closed,Jane Smith,23-04-2025,11-05-2025,Unfounded,Linked accounts under review
+AML0167,22-04-2025,1086930,Ava Williams,"Cross-border remittance activity amounting to $362,140",High-risk geography,Closed,Alice Murphy,23-04-2025,03-05-2025,Substantiated,Enhanced due diligence initiated
+AML0168,14-04-2025,2500901,Sophia Lee,"Wire transfer of $154,639 to high-risk jurisdiction",Adverse media alert,Open,Harvey Dent,17-04-2025,,Under investigation,
+AML0169,18-05-2025,1155477,Emily Anderson,"Wire transfer of $464,665 to high-risk jurisdiction",Rapid movement of funds,Closed,Nina Patel,18-05-2025,03-06-2025,Substantiated,Enhanced due diligence initiated
+AML0170,20-05-2025,3251501,Arjun Reddy,"International business payments worth $279,893",High-risk geography,Pending Review,Emily Carter,20-05-2025,,Under investigation,
+AML0171,09-05-2025,4240708,John Lee,"Purchase of high-value assets worth $419,589",Unusual transaction pattern,Closed,Nina Patel,10-05-2025,23-05-2025,Escalated to Compliance,Additional monitoring recommended
+AML0172,28-05-2025,9010350,Global Trade Inc.,"Cross-border remittance activity amounting to $101,878",PEP involvement,Pending Review,Harvey Dent,31-05-2025,,Under investigation,
+AML0173,01-05-2025,1191859,Daniel Lee,"Unusual cryptocurrency-linked transfers totaling $163,306",Rapid movement of funds,Open,Priya Nair,03-05-2025,,Under investigation,
+AML0174,23-05-2025,2969909,Pioneer Logistics,"Purchase of high-value assets worth $488,973",Rapid movement of funds,Closed,Priya Nair,24-05-2025,17-06-2025,Escalated to Compliance,Additional monitoring recommended
+AML0175,20-05-2025,8899184,Ananya Thomas,"Structuring activity involving $223,022",High-risk geography,Escalated,Harvey Dent,21-05-2025,28-05-2025,Unfounded,Potential mule account identified
+AML0176,25-05-2025,2882551,Emma Brown,"Unusual cryptocurrency-linked transfers totaling $485,900",High transfer value,Closed,Kevin Brooks,26-05-2025,17-06-2025,Customer Offboarded,Potential mule account identified
+AML0177,17-05-2025,9201172,William Williams,"Rapid movement of funds across multiple accounts totaling $361,670",Structuring,Closed,Kevin Brooks,18-05-2025,07-06-2025,Unfounded,No suspicious activity confirmed
+AML0178,15-05-2025,8757420,William Gupta,"Structuring activity involving $35,270",Rapid movement of funds,Open,Jane Smith,15-05-2025,,Under investigation,
+AML0179,13-05-2025,8920040,Michael Reddy,"Multiple cash deposits totaling $36,591",High transfer value,Closed,Sarah Connor,15-05-2025,24-05-2025,Substantiated,Enhanced due diligence initiated
+AML0180,14-05-2025,3231198,Robert Moore,"Structuring activity involving $47,074",PEP involvement,Escalated,Derek Watts,15-05-2025,07-06-2025,SAR Filed,Enhanced due diligence initiated
+AML0181,06-05-2025,7363203,William Reddy,"Structuring activity involving $227,365",Layering activity,Closed,Harvey Dent,09-05-2025,16-05-2025,Substantiated,Referred to law enforcement
+AML0182,15-05-2025,5037710,Mia Verma,"Wire transfer of $406,632 to high-risk jurisdiction",Layering activity,Closed,Derek Watts,17-05-2025,28-05-2025,Substantiated,Referred to law enforcement
+AML0183,04-05-2025,4931560,ABC Exports Pvt Ltd,"International business payments worth $215,902",High-risk geography,Open,Harvey Dent,04-05-2025,,Under investigation,
+AML0184,25-05-2025,3403511,Ananya Lee,"Purchase of high-value assets worth $129,205",High-risk geography,Escalated,Harvey Dent,25-05-2025,13-06-2025,Unfounded,Case escalated to senior compliance team
+AML0185,14-05-2025,9315137,Priya Miller,"Round-dollar transactions totaling $333,200",High transfer value,Open,Priya Nair,16-05-2025,,Under investigation,
+AML0186,21-05-2025,4780654,Emily Reddy,"Rapid movement of funds across multiple accounts totaling $253,260",Rapid movement of funds,Escalated,Alice Murphy,24-05-2025,06-06-2025,Escalated to Compliance,Customer explanation insufficient
+AML0187,26-05-2025,6540893,Robert Wilson,"Rapid movement of funds across multiple accounts totaling $138,691",Structuring,Escalated,Emily Carter,29-05-2025,18-06-2025,Escalated to Compliance,Linked accounts under review
+AML0188,28-05-2025,4156856,Ananya Verma,"Multiple cash deposits totaling $25,734",Adverse media alert,Closed,Kevin Brooks,30-05-2025,19-06-2025,Substantiated,Additional monitoring recommended
+AML0189,07-05-2025,5070038,Karan Williams,"International business payments worth $396,579",Adverse media alert,Escalated,Harvey Dent,10-05-2025,23-05-2025,Substantiated,Transaction activity aligned with known typologies
+AML0190,13-05-2025,9603633,Emma Anderson,"Frequent ATM cash withdrawals totaling $142,133",Frequent cash activity,Escalated,Emily Carter,14-05-2025,27-05-2025,Escalated to Compliance,Potential mule account identified
+AML0191,04-05-2025,3448176,Mia Johnson,"Rapid movement of funds across multiple accounts totaling $299,924",High transfer value,Open,Sarah Connor,07-05-2025,,Under investigation,
+AML0192,18-05-2025,5122665,Acme Corporation,"Unusual cryptocurrency-linked transfers totaling $204,145",Frequent cash activity,Open,Kevin Brooks,21-05-2025,,Under investigation,
+AML0193,21-05-2025,6908535,Arjun Patel,"Cross-border remittance activity amounting to $246,607",Unusual transaction pattern,Pending Review,Alice Murphy,23-05-2025,,Under investigation,
+AML0194,24-05-2025,7918793,Michael Johnson,"Wire transfer of $405,733 to high-risk jurisdiction",Unusual transaction pattern,Closed,Harvey Dent,27-05-2025,16-06-2025,Customer Offboarded,Referred to law enforcement
+AML0195,03-05-2025,9184838,Rohan Verma,"International business payments worth $483,544",High transfer value,Escalated,Jane Smith,04-05-2025,13-05-2025,SAR Filed,Referred to law enforcement
+AML0196,18-05-2025,2795437,Nova Industries,"Cross-border remittance activity amounting to $427,664",Structuring,Escalated,Kevin Brooks,21-05-2025,24-05-2025,Customer Offboarded,Additional monitoring recommended
+AML0197,05-05-2025,5080351,Michael Thomas,"International business payments worth $217,875",Layering activity,Escalated,Sarah Connor,06-05-2025,28-05-2025,SAR Filed,Additional monitoring recommended
+AML0198,22-05-2025,3875339,Amit Patel,"Wire transfer of $34,420 to high-risk jurisdiction",Structuring,Closed,Emily Carter,22-05-2025,14-06-2025,Substantiated,Enhanced due diligence initiated
+AML0199,28-05-2025,1781180,Omega Financials,"Purchase of high-value assets worth $254,299",Structuring,Closed,Sarah Connor,31-05-2025,13-06-2025,Customer Offboarded,Referred to law enforcement
+AML0200,18-05-2025,6021033,Nova Industries,"Multiple cash deposits totaling $491,997",Unusual transaction pattern,Closed,Nina Patel,18-05-2025,31-05-2025,Unfounded,Case escalated to senior compliance team
+AML0201,08-05-2025,1900876,Neha Brown,"Frequent ATM cash withdrawals totaling $267,559",Structuring,Escalated,Rahul Mehta,11-05-2025,31-05-2025,Escalated to Compliance,Customer explanation insufficient
+AML0202,08-05-2025,8558977,James Smith,"Purchase of high-value assets worth $337,463",Frequent cash activity,Pending Review,Harvey Dent,08-05-2025,,Under investigation,
+AML0203,12-05-2025,5955645,Rohan Moore,"Unusual cryptocurrency-linked transfers totaling $49,928",Layering activity,Open,Derek Watts,15-05-2025,,Under investigation,
+AML0204,03-05-2025,8461429,Michael Smith,"Purchase of high-value assets worth $499,382",PEP involvement,Closed,Sarah Connor,05-05-2025,20-05-2025,Escalated to Compliance,No suspicious activity confirmed
+AML0205,04-05-2025,6937696,Mia Williams,"Multiple cash deposits totaling $18,768",High-risk geography,Escalated,Derek Watts,05-05-2025,13-05-2025,Escalated to Compliance,Linked accounts under review
+AML0206,20-05-2025,5072543,Robert Brown,"Structuring activity involving $385,026",Adverse media alert,Open,Kevin Brooks,22-05-2025,,Under investigation,
+AML0207,06-05-2025,8064924,Michael Miller,"Purchase of high-value assets worth $232,895",Rapid movement of funds,Escalated,Emily Carter,09-05-2025,16-05-2025,SAR Filed,Additional monitoring recommended
+AML0208,26-05-2025,4280754,Karan Singh,"Unusual cryptocurrency-linked transfers totaling $264,943",Frequent cash activity,Pending Review,Derek Watts,26-05-2025,,Under investigation,
+AML0209,05-05-2025,3283789,James White,"Round-dollar transactions totaling $180,498",Rapid movement of funds,Escalated,Priya Nair,07-05-2025,22-05-2025,Customer Offboarded,Enhanced due diligence initiated
+AML0210,20-05-2025,9237735,Nova Industries,"Purchase of high-value assets worth $172,320",Adverse media alert,Pending Review,Harvey Dent,21-05-2025,,Under investigation,
+AML0211,11-06-2025,4018677,Priya Davis,"Structuring activity involving $315,497",High-risk geography,Pending Review,Jane Smith,14-06-2025,,Under investigation,
+AML0212,24-06-2025,5060441,Mia Patel,"Purchase of high-value assets worth $77,969",Rapid movement of funds,Escalated,Alice Murphy,27-06-2025,06-07-2025,SAR Filed,SAR filed with regulator
+AML0213,23-06-2025,9965197,Ananya Patel,"Round-dollar transactions totaling $310,263",High-risk geography,Open,Rahul Mehta,26-06-2025,,Under investigation,
+AML0214,18-06-2025,3790696,Acme Corporation,"Frequent ATM cash withdrawals totaling $349,772",Adverse media alert,Open,Jane Smith,18-06-2025,,Under investigation,
+AML0215,19-06-2025,9567725,Global Trade Inc.,"Rapid movement of funds across multiple accounts totaling $140,653",High-risk geography,Pending Review,Kevin Brooks,22-06-2025,,Under investigation,
+AML0216,19-06-2025,3529080,Rohan Gupta,"Structuring activity involving $366,987",PEP involvement,Pending Review,Jane Smith,20-06-2025,,Under investigation,
+AML0217,16-06-2025,6843985,Michael Williams,"Cross-border remittance activity amounting to $440,849",Rapid movement of funds,Pending Review,Priya Nair,16-06-2025,,Under investigation,
+AML0218,15-06-2025,6037595,Neha White,"Multiple cash deposits totaling $172,200",High transfer value,Escalated,Derek Watts,16-06-2025,04-07-2025,Escalated to Compliance,SAR filed with regulator
+AML0219,01-06-2025,8153291,Zenith Holdings,"Structuring activity involving $178,533",Frequent cash activity,Closed,Harvey Dent,03-06-2025,09-06-2025,Unfounded,Linked accounts under review
+AML0220,26-06-2025,8542617,Omega Financials,"Rapid movement of funds across multiple accounts totaling $467,997",Adverse media alert,Closed,Rahul Mehta,29-06-2025,07-07-2025,Escalated to Compliance,Enhanced due diligence initiated
+AML0221,13-06-2025,4306357,Amit Miller,"Frequent ATM cash withdrawals totaling $196,780",Frequent cash activity,Closed,Derek Watts,13-06-2025,22-06-2025,SAR Filed,SAR filed with regulator
+AML0222,09-06-2025,8681625,Priya Williams,"Frequent ATM cash withdrawals totaling $187,412",Adverse media alert,Escalated,Alice Murphy,12-06-2025,05-07-2025,Customer Offboarded,Enhanced due diligence initiated
+AML0223,27-06-2025,7263036,BlueWave Enterprises,"Cross-border remittance activity amounting to $66,314",Unusual transaction pattern,Closed,Kevin Brooks,29-06-2025,20-07-2025,Unfounded,No suspicious activity confirmed
+AML0224,13-06-2025,3799538,Amit Singh,"Cross-border remittance activity amounting to $492,952",Frequent cash activity,Escalated,Sarah Connor,16-06-2025,23-06-2025,Escalated to Compliance,Customer explanation insufficient
+AML0225,05-06-2025,4273712,Emma Smith,"Cross-border remittance activity amounting to $259,074",Sanctions screening match,Pending Review,Kevin Brooks,06-06-2025,,Under investigation,
+AML0226,17-06-2025,1517756,William Patel,"Multiple cash deposits totaling $92,688",Layering activity,Pending Review,Sarah Connor,20-06-2025,,Under investigation,
+AML0227,02-06-2025,2916069,Ava Reddy,"Multiple cash deposits totaling $272,809",Rapid movement of funds,Escalated,Kevin Brooks,04-06-2025,24-06-2025,Unfounded,Potential mule account identified
+AML0228,27-06-2025,5994727,Sarah Singh,"Rapid movement of funds across multiple accounts totaling $398,921",High transfer value,Escalated,Emily Carter,29-06-2025,03-07-2025,Customer Offboarded,Transaction activity aligned with known typologies
+AML0229,09-06-2025,8183451,Priya Thomas,"Unusual cryptocurrency-linked transfers totaling $456,437",Unusual transaction pattern,Closed,Nina Patel,11-06-2025,28-06-2025,Unfounded,Transaction activity aligned with known typologies
+AML0230,05-06-2025,5854206,Emily Lee,"Purchase of high-value assets worth $374,126",Adverse media alert,Escalated,Sarah Connor,06-06-2025,10-06-2025,Customer Offboarded,Additional monitoring recommended
+AML0231,28-06-2025,5153279,David Wilson,"Frequent ATM cash withdrawals totaling $81,673",Sanctions screening match,Closed,Emily Carter,28-06-2025,14-07-2025,SAR Filed,Customer explanation insufficient
+AML0232,05-06-2025,7191986,Michael Moore,"Purchase of high-value assets worth $275,329",Frequent cash activity,Escalated,Emily Carter,07-06-2025,23-06-2025,Escalated to Compliance,SAR filed with regulator
+AML0233,11-06-2025,9299939,Robert Davis,"Rapid movement of funds across multiple accounts totaling $230,256",Rapid movement of funds,Escalated,Priya Nair,11-06-2025,16-06-2025,SAR Filed,SAR filed with regulator
+AML0234,27-06-2025,1770794,Ava Lee,"Wire transfer of $473,794 to high-risk jurisdiction",Structuring,Open,Emily Carter,29-06-2025,,Under investigation,
+AML0235,01-06-2025,3667199,Zenith Holdings,"Purchase of high-value assets worth $467,499",Rapid movement of funds,Escalated,Derek Watts,01-06-2025,18-06-2025,Substantiated,Enhanced due diligence initiated
+AML0236,21-06-2025,6125594,Arjun Miller,"Round-dollar transactions totaling $32,151",Layering activity,Open,Rahul Mehta,23-06-2025,,Under investigation,
+AML0237,21-06-2025,8466983,Omega Financials,"Structuring activity involving $123,589",High transfer value,Closed,Jane Smith,21-06-2025,27-06-2025,Unfounded,Potential mule account identified
+AML0238,23-06-2025,2731434,Global Trade Inc.,"Multiple cash deposits totaling $388,130",PEP involvement,Closed,Priya Nair,25-06-2025,11-07-2025,Escalated to Compliance,SAR filed with regulator
+AML0239,10-06-2025,1142182,Rohan Jones,"Structuring activity involving $40,867",Adverse media alert,Open,Alice Murphy,11-06-2025,,Under investigation,
+AML0240,15-06-2025,3349030,Chris Brown,"Multiple cash deposits totaling $475,072",Structuring,Closed,Nina Patel,17-06-2025,26-06-2025,Escalated to Compliance,Case escalated to senior compliance team
+AML0241,24-06-2025,5163551,David Wilson,"Multiple cash deposits totaling $150,210",High-risk geography,Pending Review,Nina Patel,27-06-2025,,Under investigation,
+AML0242,20-06-2025,5015476,Chris Moore,"Wire transfer of $159,949 to high-risk jurisdiction",Frequent cash activity,Escalated,Rahul Mehta,22-06-2025,25-06-2025,Unfounded,Linked accounts under review
+AML0243,04-06-2025,3214305,John Thomas,"Frequent ATM cash withdrawals totaling $494,645",Sanctions screening match,Open,Nina Patel,05-06-2025,,Under investigation,
+AML0244,14-06-2025,4619565,Global Trade Inc.,"Purchase of high-value assets worth $12,231",High transfer value,Closed,Jane Smith,16-06-2025,10-07-2025,Escalated to Compliance,SAR filed with regulator
+AML0245,26-06-2025,3561552,Pioneer Logistics,"Unusual cryptocurrency-linked transfers totaling $286,886",Rapid movement of funds,Escalated,Derek Watts,29-06-2025,11-07-2025,Escalated to Compliance,Enhanced due diligence initiated
+AML0246,10-06-2025,6203780,Arjun Singh,"Multiple cash deposits totaling $362,069",Sanctions screening match,Closed,Harvey Dent,10-06-2025,19-06-2025,Customer Offboarded,No suspicious activity confirmed
+AML0247,02-06-2025,3302031,Sophia Miller,"Wire transfer of $67,622 to high-risk jurisdiction",High transfer value,Closed,Alice Murphy,03-06-2025,19-06-2025,Escalated to Compliance,Case escalated to senior compliance team
+AML0248,16-06-2025,1492516,BlueWave Enterprises,"Multiple cash deposits totaling $389,269",PEP involvement,Escalated,Rahul Mehta,18-06-2025,07-07-2025,Unfounded,No suspicious activity confirmed
+AML0249,09-06-2025,3799805,Raj Thomas,"International business payments worth $34,066",PEP involvement,Open,Alice Murphy,09-06-2025,,Under investigation,
+AML0250,09-06-2025,8914896,ABC Exports Pvt Ltd,"Wire transfer of $133,215 to high-risk jurisdiction",PEP involvement,Closed,Rahul Mehta,09-06-2025,03-07-2025,Unfounded,Linked accounts under review
+AML0251,05-06-2025,7254683,Vertex Solutions,"Multiple cash deposits totaling $147,217",Structuring,Escalated,Kevin Brooks,06-06-2025,26-06-2025,Unfounded,No suspicious activity confirmed
+AML0252,22-06-2025,8662929,Sophia Anderson,"Multiple cash deposits totaling $176,599",High transfer value,Closed,Priya Nair,22-06-2025,02-07-2025,Escalated to Compliance,SAR filed with regulator
+AML0253,07-07-2025,5112546,Ava Davis,"Structuring activity involving $389,021",Unusual transaction pattern,Closed,Jane Smith,09-07-2025,21-07-2025,Escalated to Compliance,No suspicious activity confirmed
+AML0254,14-07-2025,2743975,Nova Industries,"Purchase of high-value assets worth $450,123",Layering activity,Escalated,Kevin Brooks,14-07-2025,03-08-2025,Substantiated,No suspicious activity confirmed
+AML0255,08-07-2025,4883465,David Taylor,"Wire transfer of $53,772 to high-risk jurisdiction",High-risk geography,Open,Rahul Mehta,11-07-2025,,Under investigation,
+AML0256,23-07-2025,2255447,Raj Jones,"Round-dollar transactions totaling $339,084",Adverse media alert,Open,Nina Patel,25-07-2025,,Under investigation,
+AML0257,02-07-2025,5562662,Robert Lee,"International business payments worth $171,753",Layering activity,Closed,Derek Watts,05-07-2025,12-07-2025,SAR Filed,Additional monitoring recommended
+AML0258,07-07-2025,7011065,James Clark,"Structuring activity involving $68,300",Layering activity,Closed,Emily Carter,08-07-2025,14-07-2025,Substantiated,Customer explanation insufficient
+AML0259,10-07-2025,1676621,BlueWave Enterprises,"Unusual cryptocurrency-linked transfers totaling $438,264",Layering activity,Open,Priya Nair,13-07-2025,,Under investigation,
+AML0260,05-07-2025,1521470,BlueWave Enterprises,"Cross-border remittance activity amounting to $141,402",Sanctions screening match,Escalated,Emily Carter,05-07-2025,15-07-2025,Escalated to Compliance,Linked accounts under review
+AML0261,18-07-2025,7720647,Acme Corporation,"Rapid movement of funds across multiple accounts totaling $73,532",PEP involvement,Closed,Derek Watts,19-07-2025,05-08-2025,Unfounded,SAR filed with regulator
+AML0262,19-07-2025,8734211,Michael Lee,"Wire transfer of $69,239 to high-risk jurisdiction",High transfer value,Closed,Alice Murphy,21-07-2025,24-07-2025,Unfounded,Potential mule account identified
+AML0263,19-07-2025,5613428,Emily Thomas,"Cross-border remittance activity amounting to $117,573",Rapid movement of funds,Escalated,Emily Carter,22-07-2025,06-08-2025,Substantiated,Enhanced due diligence initiated
+AML0264,05-07-2025,5693862,Amit Patel,"Multiple cash deposits totaling $36,970",Sanctions screening match,Closed,Alice Murphy,05-07-2025,27-07-2025,SAR Filed,Potential mule account identified
+AML0265,14-07-2025,9131572,Neha Thomas,"Structuring activity involving $256,492",PEP involvement,Closed,Nina Patel,15-07-2025,03-08-2025,Customer Offboarded,Referred to law enforcement
+AML0266,17-07-2025,1491630,Vertex Solutions,"Rapid movement of funds across multiple accounts totaling $318,060",Rapid movement of funds,Pending Review,Jane Smith,19-07-2025,,Under investigation,
+AML0267,26-07-2025,1937991,Acme Corporation,"Structuring activity involving $144,736",Layering activity,Closed,Nina Patel,29-07-2025,12-08-2025,Unfounded,SAR filed with regulator
+AML0268,28-07-2025,1473227,Omega Financials,"Frequent ATM cash withdrawals totaling $171,725",PEP involvement,Open,Nina Patel,31-07-2025,,Under investigation,
+AML0269,19-07-2025,4902772,ABC Exports Pvt Ltd,"Wire transfer of $52,320 to high-risk jurisdiction",Adverse media alert,Escalated,Harvey Dent,20-07-2025,29-07-2025,Customer Offboarded,Additional monitoring recommended
+AML0270,01-07-2025,3376537,James Johnson,"Cross-border remittance activity amounting to $16,488",Structuring,Closed,Kevin Brooks,04-07-2025,17-07-2025,Unfounded,No suspicious activity confirmed
+AML0271,28-07-2025,9173859,James Jones,"Round-dollar transactions totaling $87,577",PEP involvement,Escalated,Alice Murphy,30-07-2025,13-08-2025,Customer Offboarded,SAR filed with regulator
+AML0272,23-07-2025,7569981,Sophia Jones,"Wire transfer of $98,170 to high-risk jurisdiction",Adverse media alert,Closed,Jane Smith,25-07-2025,18-08-2025,Escalated to Compliance,Additional monitoring recommended
+AML0273,06-07-2025,3816683,Michael Wilson,"Frequent ATM cash withdrawals totaling $186,828",Structuring,Closed,Priya Nair,08-07-2025,18-07-2025,Escalated to Compliance,Customer explanation insufficient
+AML0274,15-07-2025,2812519,Global Trade Inc.,"Purchase of high-value assets worth $188,753",High transfer value,Open,Jane Smith,15-07-2025,,Under investigation,
+AML0275,13-07-2025,9044494,Emma Reddy,"Multiple cash deposits totaling $201,790",Adverse media alert,Closed,Harvey Dent,16-07-2025,01-08-2025,Escalated to Compliance,Potential mule account identified
+AML0276,06-07-2025,7299138,Sarah Brown,"Cross-border remittance activity amounting to $184,205",Unusual transaction pattern,Escalated,Derek Watts,09-07-2025,13-07-2025,Substantiated,No suspicious activity confirmed
+AML0277,18-07-2025,8284673,Mia Singh,"Unusual cryptocurrency-linked transfers totaling $91,506",Unusual transaction pattern,Pending Review,Jane Smith,18-07-2025,,Under investigation,
+AML0278,04-07-2025,1832744,Sophia Anderson,"Multiple cash deposits totaling $129,543",Sanctions screening match,Escalated,Nina Patel,06-07-2025,15-07-2025,Customer Offboarded,Linked accounts under review
+AML0279,18-07-2025,2627170,Omega Financials,"Rapid movement of funds across multiple accounts totaling $256,830",High transfer value,Escalated,Harvey Dent,21-07-2025,25-07-2025,Substantiated,Enhanced due diligence initiated
+AML0280,06-07-2025,7501626,Rohan Taylor,"Structuring activity involving $52,781",Unusual transaction pattern,Closed,Priya Nair,08-07-2025,26-07-2025,SAR Filed,Enhanced due diligence initiated
+AML0281,13-07-2025,3535551,Olivia Taylor,"Wire transfer of $300,827 to high-risk jurisdiction",Structuring,Closed,Derek Watts,15-07-2025,01-08-2025,SAR Filed,Potential mule account identified
+AML0282,22-07-2025,4953417,Raj Clark,"International business payments worth $285,763",Frequent cash activity,Closed,Sarah Connor,24-07-2025,09-08-2025,Customer Offboarded,Referred to law enforcement
+AML0283,03-07-2025,3117049,Zenith Holdings,"Rapid movement of funds across multiple accounts totaling $116,091",High transfer value,Closed,Rahul Mehta,06-07-2025,10-07-2025,Substantiated,Potential mule account identified
+AML0284,03-07-2025,7666510,Karan Brown,"Round-dollar transactions totaling $50,627",High-risk geography,Closed,Priya Nair,06-07-2025,29-07-2025,Customer Offboarded,Additional monitoring recommended
+AML0285,28-07-2025,3486379,Mia Williams,"Cross-border remittance activity amounting to $222,287",Adverse media alert,Closed,Nina Patel,30-07-2025,16-08-2025,Customer Offboarded,Case escalated to senior compliance team
+AML0286,19-07-2025,8936405,Mia Taylor,"International business payments worth $205,825",High transfer value,Closed,Alice Murphy,19-07-2025,09-08-2025,SAR Filed,Linked accounts under review
+AML0287,09-07-2025,5506097,James Wilson,"International business payments worth $30,842",PEP involvement,Escalated,Jane Smith,12-07-2025,03-08-2025,Substantiated,Enhanced due diligence initiated
+AML0288,11-07-2025,3254614,Neha Williams,"Rapid movement of funds across multiple accounts totaling $460,553",Rapid movement of funds,Pending Review,Emily Carter,13-07-2025,,Under investigation,
+AML0289,25-07-2025,7831185,Michael Davis,"Rapid movement of funds across multiple accounts totaling $236,586",Frequent cash activity,Pending Review,Kevin Brooks,27-07-2025,,Under investigation,
+AML0290,28-07-2025,1485669,Robert Jones,"Structuring activity involving $414,215",Unusual transaction pattern,Closed,Harvey Dent,30-07-2025,18-08-2025,Substantiated,Additional monitoring recommended
+AML0291,27-07-2025,8788293,Neha Davis,"Frequent ATM cash withdrawals totaling $148,643",High-risk geography,Closed,Rahul Mehta,28-07-2025,07-08-2025,Escalated to Compliance,Referred to law enforcement
+AML0292,21-07-2025,6867997,Emily Patel,"Structuring activity involving $312,694",PEP involvement,Closed,Alice Murphy,21-07-2025,24-07-2025,SAR Filed,Potential mule account identified
+AML0293,27-07-2025,4713654,Emily Gupta,"Rapid movement of funds across multiple accounts totaling $413,855",Layering activity,Closed,Harvey Dent,29-07-2025,23-08-2025,SAR Filed,Referred to law enforcement
+AML0294,09-07-2025,6124763,Ananya Smith,"Purchase of high-value assets worth $122,319",Rapid movement of funds,Closed,Rahul Mehta,12-07-2025,15-07-2025,Escalated to Compliance,Customer explanation insufficient
+AML0295,13-08-2025,7663113,BlueWave Enterprises,"Structuring activity involving $360,045",Adverse media alert,Pending Review,Derek Watts,15-08-2025,,Under investigation,
+AML0296,01-08-2025,5645358,James Taylor,"Frequent ATM cash withdrawals totaling $340,856",Rapid movement of funds,Escalated,Sarah Connor,03-08-2025,26-08-2025,SAR Filed,SAR filed with regulator
+AML0297,07-08-2025,9344531,Rohan Jones,"Wire transfer of $383,160 to high-risk jurisdiction",Rapid movement of funds,Closed,Sarah Connor,08-08-2025,18-08-2025,Customer Offboarded,Enhanced due diligence initiated
+AML0298,14-08-2025,9969688,Priya Davis,"Rapid movement of funds across multiple accounts totaling $184,918",Frequent cash activity,Open,Priya Nair,17-08-2025,,Under investigation,
+AML0299,17-08-2025,4071377,Karan Taylor,"Structuring activity involving $385,206",PEP involvement,Closed,Derek Watts,19-08-2025,12-09-2025,SAR Filed,SAR filed with regulator
+AML0300,08-08-2025,8894293,Sophia White,"Multiple cash deposits totaling $451,281",High transfer value,Escalated,Nina Patel,10-08-2025,22-08-2025,SAR Filed,No suspicious activity confirmed
+AML0301,19-08-2025,7930789,Rohan Moore,"Purchase of high-value assets worth $282,787",High transfer value,Open,Alice Murphy,19-08-2025,,Under investigation,
+AML0302,05-08-2025,2355791,William Jones,"Cross-border remittance activity amounting to $170,876",Frequent cash activity,Pending Review,Priya Nair,06-08-2025,,Under investigation,
+AML0303,21-08-2025,3658100,BlueWave Enterprises,"Cross-border remittance activity amounting to $114,776",Frequent cash activity,Open,Derek Watts,22-08-2025,,Under investigation,
+AML0304,05-08-2025,1236174,Jane Reddy,"Frequent ATM cash withdrawals totaling $109,550",PEP involvement,Escalated,Kevin Brooks,08-08-2025,24-08-2025,Escalated to Compliance,Potential mule account identified
+AML0305,07-08-2025,6135759,Sarah Moore,"Unusual cryptocurrency-linked transfers totaling $268,893",Unusual transaction pattern,Closed,Derek Watts,07-08-2025,10-08-2025,Unfounded,No suspicious activity confirmed
+AML0306,27-08-2025,8275695,Raj Verma,"Frequent ATM cash withdrawals totaling $279,788",Unusual transaction pattern,Pending Review,Priya Nair,27-08-2025,,Under investigation,
+AML0307,16-08-2025,9466346,Zenith Holdings,"Wire transfer of $115,724 to high-risk jurisdiction",Unusual transaction pattern,Escalated,Derek Watts,18-08-2025,26-08-2025,Substantiated,Transaction activity aligned with known typologies
+AML0308,12-08-2025,2813842,Ananya Johnson,"Wire transfer of $316,387 to high-risk jurisdiction",High transfer value,Pending Review,Jane Smith,12-08-2025,,Under investigation,
+AML0309,23-08-2025,4447632,Amit Taylor,"Cross-border remittance activity amounting to $253,720",High transfer value,Pending Review,Sarah Connor,23-08-2025,,Under investigation,
+AML0310,14-08-2025,2975258,Mia Williams,"Unusual cryptocurrency-linked transfers totaling $273,217",Rapid movement of funds,Escalated,Derek Watts,14-08-2025,02-09-2025,Customer Offboarded,Case escalated to senior compliance team
+AML0311,26-08-2025,7874568,Daniel Sharma,"Frequent ATM cash withdrawals totaling $110,734",Rapid movement of funds,Open,Alice Murphy,26-08-2025,,Under investigation,
+AML0312,02-08-2025,9289690,Global Trade Inc.,"Multiple cash deposits totaling $480,466",Unusual transaction pattern,Escalated,Derek Watts,05-08-2025,30-08-2025,SAR Filed,Transaction activity aligned with known typologies
+AML0313,25-08-2025,2674515,Sophia Taylor,"Wire transfer of $248,415 to high-risk jurisdiction",Unusual transaction pattern,Escalated,Jane Smith,25-08-2025,31-08-2025,Unfounded,Potential mule account identified
+AML0314,28-08-2025,1162274,Sarah Williams,"Wire transfer of $451,298 to high-risk jurisdiction",Unusual transaction pattern,Pending Review,Alice Murphy,30-08-2025,,Under investigation,
+AML0315,11-08-2025,4068039,Michael Thomas,"Frequent ATM cash withdrawals totaling $432,275",Structuring,Pending Review,Rahul Mehta,13-08-2025,,Under investigation,
+AML0316,13-08-2025,2896774,Ava Clark,"Cross-border remittance activity amounting to $345,182",Unusual transaction pattern,Pending Review,Jane Smith,16-08-2025,,Under investigation,
+AML0317,28-08-2025,1483456,Nova Industries,"Frequent ATM cash withdrawals totaling $413,506",Unusual transaction pattern,Escalated,Emily Carter,29-08-2025,14-09-2025,Customer Offboarded,Potential mule account identified
+AML0318,16-08-2025,1207369,BlueWave Enterprises,"Frequent ATM cash withdrawals totaling $348,394",High-risk geography,Pending Review,Nina Patel,16-08-2025,,Under investigation,
+AML0319,24-08-2025,1915467,Rohan Singh,"Cross-border remittance activity amounting to $206,786",High transfer value,Closed,Alice Murphy,25-08-2025,07-09-2025,Escalated to Compliance,Transaction activity aligned with known typologies
+AML0320,17-08-2025,6551494,Skyline Ventures,"Rapid movement of funds across multiple accounts totaling $173,104",Rapid movement of funds,Open,Jane Smith,20-08-2025,,Under investigation,
+AML0321,17-08-2025,8517846,Skyline Ventures,"Unusual cryptocurrency-linked transfers totaling $425,091",Structuring,Escalated,Emily Carter,18-08-2025,10-09-2025,Escalated to Compliance,Transaction activity aligned with known typologies
+AML0322,15-08-2025,6110305,Amit Reddy,"Multiple cash deposits totaling $5,088",High-risk geography,Closed,Kevin Brooks,17-08-2025,04-09-2025,Substantiated,Enhanced due diligence initiated
+AML0323,07-08-2025,8937865,Olivia White,"Structuring activity involving $179,049",PEP involvement,Pending Review,Emily Carter,10-08-2025,,Under investigation,
+AML0324,04-08-2025,2783791,Sophia Reddy,"Frequent ATM cash withdrawals totaling $278,670",High transfer value,Closed,Alice Murphy,04-08-2025,14-08-2025,SAR Filed,No suspicious activity confirmed
+AML0325,16-08-2025,4616991,Global Trade Inc.,"Round-dollar transactions totaling $492,701",Frequent cash activity,Closed,Harvey Dent,17-08-2025,02-09-2025,SAR Filed,Case escalated to senior compliance team
+AML0326,23-08-2025,9459031,William White,"Unusual cryptocurrency-linked transfers totaling $350,220",Unusual transaction pattern,Closed,Emily Carter,25-08-2025,10-09-2025,Customer Offboarded,SAR filed with regulator
+AML0327,01-08-2025,6399642,Emily Jones,"Round-dollar transactions totaling $59,292",High-risk geography,Escalated,Rahul Mehta,01-08-2025,17-08-2025,Customer Offboarded,Customer explanation insufficient
+AML0328,14-08-2025,3318275,Sophia White,"Cross-border remittance activity amounting to $426,945",Sanctions screening match,Pending Review,Nina Patel,15-08-2025,,Under investigation,
+AML0329,23-08-2025,6793064,Omega Financials,"Purchase of high-value assets worth $379,543",Unusual transaction pattern,Escalated,Alice Murphy,25-08-2025,14-09-2025,Customer Offboarded,Transaction activity aligned with known typologies
+AML0330,17-08-2025,5797075,Rohan Clark,"Structuring activity involving $358,497",Sanctions screening match,Escalated,Jane Smith,19-08-2025,25-08-2025,Customer Offboarded,Potential mule account identified
+AML0331,17-08-2025,3456660,Zenith Holdings,"Purchase of high-value assets worth $155,269",High transfer value,Closed,Sarah Connor,17-08-2025,01-09-2025,Substantiated,Referred to law enforcement
+AML0332,07-08-2025,7524435,Pioneer Logistics,"Rapid movement of funds across multiple accounts totaling $458,426",Layering activity,Pending Review,Kevin Brooks,07-08-2025,,Under investigation,
+AML0333,26-08-2025,1217520,Rohan Lee,"Wire transfer of $294,472 to high-risk jurisdiction",Rapid movement of funds,Closed,Harvey Dent,28-08-2025,21-09-2025,Escalated to Compliance,Enhanced due diligence initiated
+AML0334,20-08-2025,3976712,Chris Davis,"International business payments worth $159,233",Structuring,Escalated,Alice Murphy,23-08-2025,15-09-2025,Customer Offboarded,Linked accounts under review
+AML0335,06-08-2025,5278461,Amit Taylor,"Cross-border remittance activity amounting to $73,192",High transfer value,Open,Priya Nair,06-08-2025,,Under investigation,
+AML0336,15-08-2025,9230079,Arjun Verma,"Purchase of high-value assets worth $447,048",Adverse media alert,Escalated,Kevin Brooks,16-08-2025,23-08-2025,Customer Offboarded,Referred to law enforcement
+AML0337,12-09-2025,7768215,Pioneer Logistics,"Round-dollar transactions totaling $88,556",Structuring,Closed,Priya Nair,12-09-2025,25-09-2025,Unfounded,Linked accounts under review
+AML0338,08-09-2025,1147701,Omega Financials,"International business payments worth $283,134",Structuring,Escalated,Priya Nair,09-09-2025,22-09-2025,SAR Filed,Additional monitoring recommended
+AML0339,15-09-2025,5745083,Sarah Moore,"Structuring activity involving $139,527",High transfer value,Closed,Kevin Brooks,16-09-2025,08-10-2025,Substantiated,No suspicious activity confirmed
+AML0340,27-09-2025,2381527,Arjun Davis,"Structuring activity involving $172,936",Structuring,Escalated,Alice Murphy,29-09-2025,18-10-2025,Escalated to Compliance,Referred to law enforcement
+AML0341,25-09-2025,2209981,Chris Reddy,"Round-dollar transactions totaling $439,502",Unusual transaction pattern,Closed,Jane Smith,25-09-2025,30-09-2025,Unfounded,Enhanced due diligence initiated
+AML0342,15-09-2025,5339392,Amit Brown,"Rapid movement of funds across multiple accounts totaling $306,445",Sanctions screening match,Closed,Rahul Mehta,17-09-2025,22-09-2025,Substantiated,Customer explanation insufficient
+AML0343,15-09-2025,2060950,Global Trade Inc.,"Wire transfer of $285,407 to high-risk jurisdiction",Adverse media alert,Pending Review,Jane Smith,18-09-2025,,Under investigation,
+AML0344,23-09-2025,5723078,Rohan Anderson,"Multiple cash deposits totaling $323,015",Frequent cash activity,Open,Rahul Mehta,23-09-2025,,Under investigation,
+AML0345,13-09-2025,5948917,David Moore,"Structuring activity involving $422,737",Unusual transaction pattern,Open,Sarah Connor,13-09-2025,,Under investigation,
+AML0346,22-09-2025,2428191,Omega Financials,"Structuring activity involving $211,612",Rapid movement of funds,Closed,Harvey Dent,24-09-2025,14-10-2025,Substantiated,Referred to law enforcement
+AML0347,24-09-2025,4042682,BlueWave Enterprises,"Multiple cash deposits totaling $106,882",Adverse media alert,Closed,Jane Smith,26-09-2025,12-10-2025,Unfounded,Customer explanation insufficient
+AML0348,28-09-2025,6991787,Chris Gupta,"Frequent ATM cash withdrawals totaling $260,428",Unusual transaction pattern,Closed,Harvey Dent,01-10-2025,21-10-2025,SAR Filed,SAR filed with regulator
+AML0349,04-09-2025,3556763,Ananya Anderson,"Unusual cryptocurrency-linked transfers totaling $368,571",Adverse media alert,Closed,Nina Patel,06-09-2025,11-09-2025,SAR Filed,Potential mule account identified
+AML0350,12-09-2025,8316947,Acme Corporation,"Rapid movement of funds across multiple accounts totaling $416,912",Rapid movement of funds,Open,Priya Nair,14-09-2025,,Under investigation,
+AML0351,05-09-2025,3948933,Sophia Patel,"Multiple cash deposits totaling $294,234",Adverse media alert,Pending Review,Derek Watts,07-09-2025,,Under investigation,
+AML0352,27-09-2025,7797028,John Sharma,"Wire transfer of $336,154 to high-risk jurisdiction",Adverse media alert,Closed,Harvey Dent,29-09-2025,19-10-2025,SAR Filed,SAR filed with regulator
+AML0353,02-09-2025,9407451,Priya Anderson,"International business payments worth $75,192",High-risk geography,Escalated,Derek Watts,04-09-2025,24-09-2025,Unfounded,No suspicious activity confirmed
+AML0354,13-09-2025,3452813,David White,"Cross-border remittance activity amounting to $88,478",Frequent cash activity,Closed,Priya Nair,15-09-2025,18-09-2025,Customer Offboarded,Customer explanation insufficient
+AML0355,02-09-2025,4469093,Vertex Solutions,"Wire transfer of $127,693 to high-risk jurisdiction",High-risk geography,Open,Priya Nair,03-09-2025,,Under investigation,
+AML0356,13-09-2025,5588489,Vertex Solutions,"Structuring activity involving $59,119",Rapid movement of funds,Open,Nina Patel,16-09-2025,,Under investigation,
+AML0357,18-09-2025,7313749,Arjun Brown,"Purchase of high-value assets worth $275,880",Layering activity,Pending Review,Kevin Brooks,19-09-2025,,Under investigation,
+AML0358,13-09-2025,8380275,Ananya Smith,"Cross-border remittance activity amounting to $268,107",Unusual transaction pattern,Pending Review,Harvey Dent,15-09-2025,,Under investigation,
+AML0359,03-09-2025,2901507,Sarah Wilson,"Frequent ATM cash withdrawals totaling $222,376",Frequent cash activity,Closed,Emily Carter,05-09-2025,12-09-2025,Unfounded,No suspicious activity confirmed
+AML0360,16-09-2025,3260294,Omega Financials,"Cross-border remittance activity amounting to $315,560",High-risk geography,Escalated,Jane Smith,17-09-2025,25-09-2025,Substantiated,Transaction activity aligned with known typologies
+AML0361,19-09-2025,5755579,Ananya Gupta,"Wire transfer of $339,297 to high-risk jurisdiction",Structuring,Escalated,Harvey Dent,20-09-2025,28-09-2025,Unfounded,Linked accounts under review
+AML0362,15-09-2025,4051509,Nova Industries,"Cross-border remittance activity amounting to $320,012",Adverse media alert,Open,Kevin Brooks,18-09-2025,,Under investigation,
+AML0363,09-09-2025,2821504,Olivia Moore,"Cross-border remittance activity amounting to $207,093",High transfer value,Escalated,Harvey Dent,10-09-2025,04-10-2025,Escalated to Compliance,Case escalated to senior compliance team
+AML0364,17-09-2025,9444462,Ananya Johnson,"Structuring activity involving $465,195",Structuring,Closed,Derek Watts,20-09-2025,12-10-2025,Unfounded,Potential mule account identified
+AML0365,16-09-2025,9088689,Jane Sharma,"Rapid movement of funds across multiple accounts totaling $229,896",Sanctions screening match,Closed,Priya Nair,17-09-2025,07-10-2025,Escalated to Compliance,Linked accounts under review
+AML0366,19-09-2025,7855954,Olivia Brown,"Unusual cryptocurrency-linked transfers totaling $153,513",Rapid movement of funds,Open,Harvey Dent,19-09-2025,,Under investigation,
+AML0367,01-09-2025,2788169,Chris Lee,"Frequent ATM cash withdrawals totaling $219,352",Unusual transaction pattern,Closed,Rahul Mehta,01-09-2025,20-09-2025,Customer Offboarded,Referred to law enforcement
+AML0368,21-09-2025,4417412,Ananya Taylor,"Round-dollar transactions totaling $361,833",Sanctions screening match,Pending Review,Kevin Brooks,23-09-2025,,Under investigation,
+AML0369,26-09-2025,2997927,Neha Moore,"Cross-border remittance activity amounting to $390,761",Layering activity,Escalated,Emily Carter,29-09-2025,13-10-2025,SAR Filed,Additional monitoring recommended
+AML0370,26-09-2025,1088762,Rohan Johnson,"Round-dollar transactions totaling $89,273",Structuring,Escalated,Alice Murphy,27-09-2025,06-10-2025,SAR Filed,Linked accounts under review
+AML0371,16-09-2025,7721705,ABC Exports Pvt Ltd,"Round-dollar transactions totaling $384,843",Adverse media alert,Escalated,Kevin Brooks,19-09-2025,24-09-2025,Unfounded,No suspicious activity confirmed
+AML0372,10-09-2025,1563871,Pioneer Logistics,"Rapid movement of funds across multiple accounts totaling $154,949",Adverse media alert,Escalated,Kevin Brooks,10-09-2025,03-10-2025,Escalated to Compliance,Referred to law enforcement
+AML0373,17-09-2025,6924499,Emily Brown,"Round-dollar transactions totaling $149,670",Sanctions screening match,Closed,Rahul Mehta,18-09-2025,26-09-2025,SAR Filed,Transaction activity aligned with known typologies
+AML0374,19-09-2025,5639031,Amit Gupta,"Frequent ATM cash withdrawals totaling $187,502",Layering activity,Closed,Nina Patel,20-09-2025,23-09-2025,Substantiated,Linked accounts under review
+AML0375,07-09-2025,2214435,Mia Sharma,"Structuring activity involving $60,818",High-risk geography,Open,Sarah Connor,10-09-2025,,Under investigation,
+AML0376,11-09-2025,8729606,Olivia Lee,"International business payments worth $411,637",Adverse media alert,Escalated,Jane Smith,11-09-2025,22-09-2025,Escalated to Compliance,Enhanced due diligence initiated
+AML0377,16-09-2025,7919359,Olivia Wilson,"Frequent ATM cash withdrawals totaling $424,515",PEP involvement,Open,Kevin Brooks,16-09-2025,,Under investigation,
+AML0378,18-10-2025,3994493,Karan Lee,"Structuring activity involving $44,860",Frequent cash activity,Closed,Priya Nair,18-10-2025,29-10-2025,SAR Filed,SAR filed with regulator
+AML0379,12-10-2025,4469169,Olivia Wilson,"Purchase of high-value assets worth $462,568",Layering activity,Closed,Harvey Dent,13-10-2025,24-10-2025,Unfounded,Potential mule account identified
+AML0380,27-10-2025,1709057,Rohan Patel,"Wire transfer of $326,822 to high-risk jurisdiction",Frequent cash activity,Closed,Priya Nair,28-10-2025,11-11-2025,Substantiated,SAR filed with regulator
+AML0381,20-10-2025,3151610,Raj Taylor,"Rapid movement of funds across multiple accounts totaling $213,603",High transfer value,Pending Review,Kevin Brooks,22-10-2025,,Under investigation,
+AML0382,26-10-2025,9694039,Robert Miller,"Multiple cash deposits totaling $244,702",Frequent cash activity,Open,Priya Nair,29-10-2025,,Under investigation,
+AML0383,23-10-2025,4139896,Vertex Solutions,"Purchase of high-value assets worth $326,272",High-risk geography,Closed,Sarah Connor,23-10-2025,16-11-2025,Escalated to Compliance,Case escalated to senior compliance team
+AML0384,08-10-2025,7246319,Ava Clark,"Round-dollar transactions totaling $115,379",PEP involvement,Pending Review,Rahul Mehta,10-10-2025,,Under investigation,
+AML0385,09-10-2025,8251427,Karan Taylor,"Rapid movement of funds across multiple accounts totaling $426,573",Sanctions screening match,Closed,Harvey Dent,12-10-2025,02-11-2025,Customer Offboarded,Transaction activity aligned with known typologies
+AML0386,05-10-2025,9958741,Skyline Ventures,"Structuring activity involving $75,501",PEP involvement,Open,Emily Carter,06-10-2025,,Under investigation,
+AML0387,10-10-2025,8995004,Jane Davis,"Purchase of high-value assets worth $431,675",Structuring,Closed,Emily Carter,12-10-2025,02-11-2025,Escalated to Compliance,SAR filed with regulator
+AML0388,24-10-2025,7908201,Amit Taylor,"Wire transfer of $185,428 to high-risk jurisdiction",Structuring,Pending Review,Priya Nair,26-10-2025,,Under investigation,
+AML0389,28-10-2025,2315459,Raj Patel,"International business payments worth $411,189",Sanctions screening match,Closed,Nina Patel,29-10-2025,19-11-2025,SAR Filed,No suspicious activity confirmed
+AML0390,10-10-2025,2327277,Priya Moore,"Multiple cash deposits totaling $450,068",Unusual transaction pattern,Closed,Priya Nair,13-10-2025,20-10-2025,SAR Filed,Enhanced due diligence initiated
+AML0391,08-10-2025,8464156,Ananya Singh,"Purchase of high-value assets worth $212,332",PEP involvement,Pending Review,Nina Patel,10-10-2025,,Under investigation,
+AML0392,17-10-2025,5221936,ABC Exports Pvt Ltd,"Rapid movement of funds across multiple accounts totaling $70,556",Structuring,Open,Harvey Dent,20-10-2025,,Under investigation,
+AML0393,06-10-2025,2743629,Nova Industries,"Multiple cash deposits totaling $279,717",Rapid movement of funds,Closed,Nina Patel,09-10-2025,15-10-2025,Escalated to Compliance,Linked accounts under review
+AML0394,05-10-2025,9837269,William Singh,"Cross-border remittance activity amounting to $71,276",Unusual transaction pattern,Escalated,Jane Smith,05-10-2025,20-10-2025,Unfounded,Transaction activity aligned with known typologies
+AML0395,02-10-2025,3266851,Amit Taylor,"International business payments worth $292,595",High-risk geography,Pending Review,Alice Murphy,04-10-2025,,Under investigation,
+AML0396,19-10-2025,2502467,Emma Patel,"Rapid movement of funds across multiple accounts totaling $287,941",Frequent cash activity,Escalated,Sarah Connor,22-10-2025,14-11-2025,Customer Offboarded,Linked accounts under review
+AML0397,12-10-2025,6769431,John Sharma,"Cross-border remittance activity amounting to $432,493",Rapid movement of funds,Open,Emily Carter,15-10-2025,,Under investigation,
+AML0398,18-10-2025,7268704,Sophia Verma,"Wire transfer of $126,223 to high-risk jurisdiction",Layering activity,Escalated,Rahul Mehta,18-10-2025,05-11-2025,SAR Filed,Referred to law enforcement
+AML0399,18-10-2025,4700926,Nova Industries,"Round-dollar transactions totaling $439,334",Rapid movement of funds,Open,Derek Watts,21-10-2025,,Under investigation,
+AML0400,14-10-2025,4060284,Mia Davis,"Multiple cash deposits totaling $452,470",Unusual transaction pattern,Escalated,Sarah Connor,15-10-2025,06-11-2025,SAR Filed,Linked accounts under review
+AML0401,04-10-2025,9975319,ABC Exports Pvt Ltd,"Wire transfer of $84,770 to high-risk jurisdiction",High transfer value,Escalated,Alice Murphy,07-10-2025,24-10-2025,Customer Offboarded,Potential mule account identified
+AML0402,04-10-2025,3528052,Karan Smith,"Multiple cash deposits totaling $127,059",High transfer value,Open,Emily Carter,06-10-2025,,Under investigation,
+AML0403,07-10-2025,6540652,Ava Thomas,"Wire transfer of $248,104 to high-risk jurisdiction",Structuring,Pending Review,Alice Murphy,09-10-2025,,Under investigation,
+AML0404,02-10-2025,7401806,Emily Davis,"Purchase of high-value assets worth $474,604",High transfer value,Open,Derek Watts,04-10-2025,,Under investigation,
+AML0405,25-10-2025,2576392,ABC Exports Pvt Ltd,"International business payments worth $109,427",High-risk geography,Pending Review,Harvey Dent,26-10-2025,,Under investigation,
+AML0406,16-10-2025,9073692,Amit Sharma,"Purchase of high-value assets worth $69,037",Rapid movement of funds,Escalated,Harvey Dent,19-10-2025,31-10-2025,Unfounded,Referred to law enforcement
+AML0407,12-10-2025,7640561,Emily Taylor,"Multiple cash deposits totaling $311,549",Layering activity,Closed,Jane Smith,12-10-2025,21-10-2025,Unfounded,Enhanced due diligence initiated
+AML0408,02-10-2025,6677780,Skyline Ventures,"Unusual cryptocurrency-linked transfers totaling $52,920",High transfer value,Closed,Jane Smith,05-10-2025,27-10-2025,SAR Filed,SAR filed with regulator
+AML0409,12-10-2025,8360481,Pioneer Logistics,"Frequent ATM cash withdrawals totaling $418,433",Layering activity,Closed,Jane Smith,13-10-2025,02-11-2025,Unfounded,Potential mule account identified
+AML0410,23-10-2025,5944490,Jane Patel,"International business payments worth $375,475",High-risk geography,Open,Emily Carter,26-10-2025,,Under investigation,
+AML0411,07-10-2025,9911007,Ananya Reddy,"Multiple cash deposits totaling $89,066",Unusual transaction pattern,Escalated,Emily Carter,08-10-2025,22-10-2025,Escalated to Compliance,Additional monitoring recommended
+AML0412,10-10-2025,5006173,Emily Smith,"Frequent ATM cash withdrawals totaling $329,919",PEP involvement,Escalated,Derek Watts,12-10-2025,26-10-2025,Substantiated,Linked accounts under review
+AML0413,22-10-2025,2853280,James Clark,"Frequent ATM cash withdrawals totaling $341,018",Structuring,Escalated,Kevin Brooks,25-10-2025,13-11-2025,Customer Offboarded,Customer explanation insufficient
+AML0414,22-10-2025,7519606,Acme Corporation,"Wire transfer of $56,775 to high-risk jurisdiction",Frequent cash activity,Closed,Kevin Brooks,22-10-2025,29-10-2025,Substantiated,Transaction activity aligned with known typologies
+AML0415,20-10-2025,2341452,Acme Corporation,"International business payments worth $348,801",Frequent cash activity,Closed,Jane Smith,22-10-2025,05-11-2025,Customer Offboarded,SAR filed with regulator
+AML0416,12-10-2025,6098672,Daniel Sharma,"Multiple cash deposits totaling $26,313",Structuring,Open,Harvey Dent,15-10-2025,,Under investigation,
+AML0417,17-10-2025,7965641,Olivia Gupta,"Cross-border remittance activity amounting to $332,850",Structuring,Escalated,Nina Patel,17-10-2025,27-10-2025,Unfounded,Transaction activity aligned with known typologies
+AML0418,12-10-2025,3653760,Amit Moore,"Frequent ATM cash withdrawals totaling $269,604",High-risk geography,Escalated,Nina Patel,15-10-2025,08-11-2025,Substantiated,Customer explanation insufficient
+AML0419,15-11-2025,5038654,Mia Singh,"Frequent ATM cash withdrawals totaling $230,752",Adverse media alert,Pending Review,Kevin Brooks,17-11-2025,,Under investigation,
+AML0420,07-11-2025,1273509,John Johnson,"Unusual cryptocurrency-linked transfers totaling $154,150",High-risk geography,Escalated,Alice Murphy,10-11-2025,21-11-2025,Escalated to Compliance,Potential mule account identified
+AML0421,10-11-2025,9577712,Vertex Solutions,"Purchase of high-value assets worth $16,377",High-risk geography,Open,Nina Patel,10-11-2025,,Under investigation,
+AML0422,19-11-2025,5191903,Vertex Solutions,"Unusual cryptocurrency-linked transfers totaling $471,419",Layering activity,Escalated,Sarah Connor,20-11-2025,24-11-2025,SAR Filed,Customer explanation insufficient
+AML0423,26-11-2025,3900822,Karan Lee,"International business payments worth $420,710",Frequent cash activity,Escalated,Nina Patel,28-11-2025,19-12-2025,Customer Offboarded,Transaction activity aligned with known typologies
+AML0424,27-11-2025,7988074,Jane Lee,"Round-dollar transactions totaling $187,415",Structuring,Escalated,Harvey Dent,27-11-2025,20-12-2025,Substantiated,Case escalated to senior compliance team
+AML0425,24-11-2025,6483324,James Reddy,"Cross-border remittance activity amounting to $301,177",High-risk geography,Escalated,Harvey Dent,24-11-2025,17-12-2025,Substantiated,Additional monitoring recommended
+AML0426,05-11-2025,3483236,Olivia Clark,"Round-dollar transactions totaling $156,929",Unusual transaction pattern,Escalated,Priya Nair,05-11-2025,20-11-2025,Customer Offboarded,Case escalated to senior compliance team
+AML0427,03-11-2025,9068540,Mia Jones,"Cross-border remittance activity amounting to $404,524",High-risk geography,Escalated,Harvey Dent,06-11-2025,10-11-2025,SAR Filed,SAR filed with regulator
+AML0428,16-11-2025,5467052,Raj Wilson,"Multiple cash deposits totaling $132,042",Sanctions screening match,Closed,Priya Nair,19-11-2025,10-12-2025,Customer Offboarded,Case escalated to senior compliance team
+AML0429,22-11-2025,6114011,James Thomas,"Wire transfer of $316,362 to high-risk jurisdiction",Unusual transaction pattern,Escalated,Priya Nair,22-11-2025,16-12-2025,Escalated to Compliance,No suspicious activity confirmed
+AML0430,20-11-2025,2885284,Vertex Solutions,"Multiple cash deposits totaling $86,784",High transfer value,Escalated,Harvey Dent,23-11-2025,30-11-2025,Substantiated,Transaction activity aligned with known typologies
+AML0431,20-11-2025,1381650,Sarah Anderson,"International business payments worth $240,961",PEP involvement,Open,Harvey Dent,21-11-2025,,Under investigation,
+AML0432,24-11-2025,9838222,David Smith,"Unusual cryptocurrency-linked transfers totaling $202,450",High transfer value,Escalated,Sarah Connor,25-11-2025,15-12-2025,Customer Offboarded,Potential mule account identified
+AML0433,06-11-2025,1139824,Ananya Taylor,"International business payments worth $32,831",Structuring,Open,Rahul Mehta,06-11-2025,,Under investigation,
+AML0434,22-11-2025,9531890,Arjun Moore,"Round-dollar transactions totaling $126,198",Structuring,Escalated,Priya Nair,24-11-2025,18-12-2025,Substantiated,Referred to law enforcement
+AML0435,16-11-2025,9219709,Pioneer Logistics,"Frequent ATM cash withdrawals totaling $164,869",Sanctions screening match,Escalated,Alice Murphy,16-11-2025,25-11-2025,Customer Offboarded,Referred to law enforcement
+AML0436,01-11-2025,5323142,Raj Taylor,"Wire transfer of $430,665 to high-risk jurisdiction",Sanctions screening match,Escalated,Jane Smith,03-11-2025,17-11-2025,SAR Filed,Transaction activity aligned with known typologies
+AML0437,18-11-2025,4815608,Nova Industries,"Unusual cryptocurrency-linked transfers totaling $278,006",Sanctions screening match,Escalated,Harvey Dent,20-11-2025,27-11-2025,Escalated to Compliance,Customer explanation insufficient
+AML0438,19-11-2025,4468811,James White,"Cross-border remittance activity amounting to $289,286",Unusual transaction pattern,Pending Review,Nina Patel,20-11-2025,,Under investigation,
+AML0439,18-11-2025,9941610,Priya Miller,"Multiple cash deposits totaling $171,459",Structuring,Closed,Alice Murphy,19-11-2025,01-12-2025,Escalated to Compliance,Customer explanation insufficient
+AML0440,11-11-2025,3549416,Karan Singh,"Purchase of high-value assets worth $494,291",Layering activity,Escalated,Derek Watts,12-11-2025,15-11-2025,Escalated to Compliance,Enhanced due diligence initiated
+AML0441,05-11-2025,7027405,Ananya Wilson,"Wire transfer of $126,064 to high-risk jurisdiction",Structuring,Escalated,Emily Carter,06-11-2025,28-11-2025,Customer Offboarded,Case escalated to senior compliance team
+AML0442,05-11-2025,1540722,David Miller,"Rapid movement of funds across multiple accounts totaling $106,323",Sanctions screening match,Escalated,Jane Smith,08-11-2025,01-12-2025,Unfounded,Enhanced due diligence initiated
+AML0443,09-11-2025,9219877,Skyline Ventures,"Unusual cryptocurrency-linked transfers totaling $459,625",PEP involvement,Closed,Emily Carter,12-11-2025,06-12-2025,Unfounded,SAR filed with regulator
+AML0444,08-11-2025,9995261,Robert Lee,"Unusual cryptocurrency-linked transfers totaling $211,648",High-risk geography,Open,Jane Smith,11-11-2025,,Under investigation,
+AML0445,17-11-2025,7637254,Jane Wilson,"Structuring activity involving $276,949",High transfer value,Pending Review,Kevin Brooks,17-11-2025,,Under investigation,
+AML0446,13-11-2025,5939543,Sophia White,"Round-dollar transactions totaling $92,286",Adverse media alert,Escalated,Jane Smith,13-11-2025,25-11-2025,Escalated to Compliance,Additional monitoring recommended
+AML0447,23-11-2025,3270069,Pioneer Logistics,"Cross-border remittance activity amounting to $64,334",Sanctions screening match,Pending Review,Rahul Mehta,24-11-2025,,Under investigation,
+AML0448,11-11-2025,3072728,Michael Taylor,"Cross-border remittance activity amounting to $174,908",Structuring,Escalated,Derek Watts,14-11-2025,22-11-2025,Customer Offboarded,Transaction activity aligned with known typologies
+AML0449,23-11-2025,7385526,Raj Verma,"Round-dollar transactions totaling $88,833",High transfer value,Closed,Alice Murphy,26-11-2025,10-12-2025,Customer Offboarded,Enhanced due diligence initiated
+AML0450,11-11-2025,2972228,Karan White,"Cross-border remittance activity amounting to $156,404",Unusual transaction pattern,Closed,Harvey Dent,12-11-2025,19-11-2025,Substantiated,Enhanced due diligence initiated
+AML0451,01-11-2025,8981122,Ananya Patel,"Rapid movement of funds across multiple accounts totaling $129,716",Frequent cash activity,Escalated,Rahul Mehta,03-11-2025,20-11-2025,Escalated to Compliance,Linked accounts under review
+AML0452,15-11-2025,1820721,Arjun Reddy,"Rapid movement of funds across multiple accounts totaling $434,979",Unusual transaction pattern,Closed,Alice Murphy,15-11-2025,07-12-2025,Unfounded,Linked accounts under review
+AML0453,02-11-2025,3990511,Michael Johnson,"Round-dollar transactions totaling $62,088",Unusual transaction pattern,Closed,Sarah Connor,04-11-2025,11-11-2025,Customer Offboarded,Case escalated to senior compliance team
+AML0454,20-11-2025,7357547,Michael Anderson,"Frequent ATM cash withdrawals totaling $174,251",Structuring,Pending Review,Rahul Mehta,21-11-2025,,Under investigation,
+AML0455,27-11-2025,7941705,BlueWave Enterprises,"Structuring activity involving $177,600",High-risk geography,Pending Review,Harvey Dent,27-11-2025,,Under investigation,
+AML0456,23-11-2025,8164770,Ava Verma,"Purchase of high-value assets worth $494,628",Adverse media alert,Closed,Priya Nair,24-11-2025,28-11-2025,Customer Offboarded,Linked accounts under review
+AML0457,09-11-2025,4247321,Emily Verma,"Purchase of high-value assets worth $127,013",High transfer value,Escalated,Derek Watts,11-11-2025,03-12-2025,Customer Offboarded,Potential mule account identified
+AML0458,01-11-2025,1189536,James Thomas,"Rapid movement of funds across multiple accounts totaling $298,819",Layering activity,Closed,Sarah Connor,04-11-2025,10-11-2025,Customer Offboarded,Enhanced due diligence initiated
+AML0459,09-11-2025,6727097,James Smith,"Frequent ATM cash withdrawals totaling $64,683",Sanctions screening match,Pending Review,Nina Patel,09-11-2025,,Under investigation,
+AML0460,20-12-2025,3606949,Jane Singh,"International business payments worth $76,174",Frequent cash activity,Escalated,Kevin Brooks,20-12-2025,29-12-2025,SAR Filed,Potential mule account identified
+AML0461,11-12-2025,9990666,Sophia Gupta,"Frequent ATM cash withdrawals totaling $385,090",High transfer value,Open,Harvey Dent,14-12-2025,,Under investigation,
+AML0462,19-12-2025,9963616,Daniel Smith,"Round-dollar transactions totaling $182,813",Unusual transaction pattern,Open,Nina Patel,21-12-2025,,Under investigation,
+AML0463,20-12-2025,4986975,Daniel Clark,"International business payments worth $50,507",PEP involvement,Closed,Emily Carter,23-12-2025,14-01-2026,SAR Filed,No suspicious activity confirmed
+AML0464,27-12-2025,8445293,Jane Davis,"Multiple cash deposits totaling $483,860",High-risk geography,Escalated,Jane Smith,29-12-2025,17-01-2026,Unfounded,SAR filed with regulator
+AML0465,26-12-2025,3404091,Raj Anderson,"Frequent ATM cash withdrawals totaling $411,602",Structuring,Closed,Kevin Brooks,29-12-2025,05-01-2026,SAR Filed,Potential mule account identified
+AML0466,22-12-2025,2460891,BlueWave Enterprises,"Wire transfer of $493,813 to high-risk jurisdiction",PEP involvement,Escalated,Emily Carter,23-12-2025,27-12-2025,Escalated to Compliance,Linked accounts under review
+AML0467,02-12-2025,4230379,Arjun Davis,"Rapid movement of funds across multiple accounts totaling $173,233",Rapid movement of funds,Escalated,Sarah Connor,02-12-2025,26-12-2025,Substantiated,Case escalated to senior compliance team
+AML0468,18-12-2025,9624506,Emily Taylor,"Wire transfer of $65,010 to high-risk jurisdiction",Structuring,Open,Harvey Dent,20-12-2025,,Under investigation,
+AML0469,18-12-2025,6683095,Emily Brown,"Unusual cryptocurrency-linked transfers totaling $168,251",High-risk geography,Escalated,Emily Carter,20-12-2025,02-01-2026,Unfounded,Additional monitoring recommended
+AML0470,02-12-2025,8479891,Nova Industries,"Cross-border remittance activity amounting to $210,477",Adverse media alert,Closed,Priya Nair,03-12-2025,21-12-2025,Substantiated,Enhanced due diligence initiated
+AML0471,10-12-2025,6207508,Skyline Ventures,"International business payments worth $55,993",Frequent cash activity,Closed,Emily Carter,12-12-2025,06-01-2026,Escalated to Compliance,Case escalated to senior compliance team
+AML0472,08-12-2025,8604827,Vertex Solutions,"Frequent ATM cash withdrawals totaling $418,547",Frequent cash activity,Escalated,Jane Smith,09-12-2025,31-12-2025,SAR Filed,Enhanced due diligence initiated
+AML0473,03-12-2025,9521981,Emma Verma,"Cross-border remittance activity amounting to $306,296",Structuring,Escalated,Rahul Mehta,06-12-2025,20-12-2025,Escalated to Compliance,Customer explanation insufficient
+AML0474,27-12-2025,7936404,Amit White,"Unusual cryptocurrency-linked transfers totaling $215,143",Layering activity,Open,Nina Patel,27-12-2025,,Under investigation,
+AML0475,08-12-2025,8233471,Acme Corporation,"Unusual cryptocurrency-linked transfers totaling $431,726",Sanctions screening match,Pending Review,Nina Patel,09-12-2025,,Under investigation,
+AML0476,26-12-2025,2918019,Neha Gupta,"International business payments worth $443,697",Adverse media alert,Closed,Nina Patel,28-12-2025,22-01-2026,Unfounded,SAR filed with regulator
+AML0477,15-12-2025,7357071,Michael Verma,"Unusual cryptocurrency-linked transfers totaling $62,013",PEP involvement,Escalated,Emily Carter,17-12-2025,23-12-2025,Unfounded,Additional monitoring recommended
+AML0478,21-12-2025,5890613,Rohan Jones,"Structuring activity involving $242,489",Sanctions screening match,Closed,Nina Patel,21-12-2025,30-12-2025,Customer Offboarded,Referred to law enforcement
+AML0479,19-12-2025,6775801,Rohan Anderson,"Round-dollar transactions totaling $486,559",Structuring,Escalated,Nina Patel,22-12-2025,31-12-2025,SAR Filed,Case escalated to senior compliance team
+AML0480,01-12-2025,2840432,John Reddy,"Frequent ATM cash withdrawals totaling $435,311",Rapid movement of funds,Closed,Jane Smith,04-12-2025,16-12-2025,SAR Filed,Linked accounts under review
+AML0481,08-12-2025,8967020,Mia Reddy,"Cross-border remittance activity amounting to $115,738",Unusual transaction pattern,Escalated,Harvey Dent,11-12-2025,01-01-2026,SAR Filed,Enhanced due diligence initiated
+AML0482,18-12-2025,2203698,Zenith Holdings,"Wire transfer of $75,400 to high-risk jurisdiction",High transfer value,Pending Review,Alice Murphy,21-12-2025,,Under investigation,
+AML0483,24-12-2025,8142130,Mia White,"Unusual cryptocurrency-linked transfers totaling $473,494",Adverse media alert,Closed,Alice Murphy,27-12-2025,12-01-2026,Substantiated,Customer explanation insufficient
+AML0484,15-12-2025,9357686,Omega Financials,"Unusual cryptocurrency-linked transfers totaling $8,895",Layering activity,Escalated,Kevin Brooks,18-12-2025,04-01-2026,SAR Filed,Transaction activity aligned with known typologies
+AML0485,09-12-2025,9078781,Neha Thomas,"Unusual cryptocurrency-linked transfers totaling $64,330",Structuring,Escalated,Alice Murphy,12-12-2025,02-01-2026,Substantiated,Referred to law enforcement
+AML0486,24-12-2025,2309997,Ananya Brown,"International business payments worth $133,571",High-risk geography,Open,Nina Patel,26-12-2025,,Under investigation,
+AML0487,10-12-2025,8063478,Raj Patel,"Frequent ATM cash withdrawals totaling $305,923",PEP involvement,Open,Sarah Connor,10-12-2025,,Under investigation,
+AML0488,10-12-2025,1866037,Skyline Ventures,"Cross-border remittance activity amounting to $308,112",Rapid movement of funds,Escalated,Nina Patel,11-12-2025,05-01-2026,Customer Offboarded,Additional monitoring recommended
+AML0489,01-12-2025,5228713,Global Trade Inc.,"Purchase of high-value assets worth $451,402",Unusual transaction pattern,Open,Nina Patel,03-12-2025,,Under investigation,
+AML0490,09-12-2025,3535634,Ananya Miller,"Unusual cryptocurrency-linked transfers totaling $482,171",Frequent cash activity,Open,Priya Nair,11-12-2025,,Under investigation,
+AML0491,26-12-2025,3433874,Raj Johnson,"Multiple cash deposits totaling $184,751",Adverse media alert,Open,Alice Murphy,27-12-2025,,Under investigation,
+AML0492,27-12-2025,4537589,Skyline Ventures,"Cross-border remittance activity amounting to $385,632",Adverse media alert,Pending Review,Priya Nair,30-12-2025,,Under investigation,
+AML0493,02-12-2025,7544296,Ava Reddy,"Round-dollar transactions totaling $127,505",Frequent cash activity,Closed,Sarah Connor,04-12-2025,08-12-2025,Escalated to Compliance,Enhanced due diligence initiated
+AML0494,05-12-2025,6936250,Rohan Johnson,"Structuring activity involving $56,046",Sanctions screening match,Escalated,Nina Patel,08-12-2025,20-12-2025,Escalated to Compliance,No suspicious activity confirmed
+AML0495,21-12-2025,7562471,Sarah Taylor,"Unusual cryptocurrency-linked transfers totaling $348,064",Frequent cash activity,Pending Review,Harvey Dent,23-12-2025,,Under investigation,
+AML0496,24-12-2025,1200679,ABC Exports Pvt Ltd,"Multiple cash deposits totaling $441,044",Sanctions screening match,Closed,Derek Watts,25-12-2025,07-01-2026,SAR Filed,Linked accounts under review
+AML0497,17-12-2025,1954320,Jane Smith,"Multiple cash deposits totaling $329,742",Adverse media alert,Escalated,Harvey Dent,17-12-2025,03-01-2026,Unfounded,Additional monitoring recommended
+AML0498,20-12-2025,2859671,Arjun Gupta,"Cross-border remittance activity amounting to $426,108",Unusual transaction pattern,Closed,Sarah Connor,20-12-2025,26-12-2025,Customer Offboarded,Customer explanation insufficient
+AML0499,10-12-2025,2241464,Rohan Lee,"Cross-border remittance activity amounting to $139,918",Rapid movement of funds,Escalated,Jane Smith,13-12-2025,18-12-2025,SAR Filed,Enhanced due diligence initiated
+AML0500,13-12-2025,9249722,Daniel Miller,"Multiple cash deposits totaling $235,988",Layering activity,Open,Nina Patel,16-12-2025,,Under investigation,
